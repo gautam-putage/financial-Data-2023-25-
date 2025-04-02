@@ -1,0 +1,1351 @@
+Transaction ID,Date,Account Type,Category,Description,Debit Amount,Credit Amount,Balance,Department,Vendor/Client,Invoice Number,Payment Method
+TXN10001,17-04-2023,Assets,Loans,Invoice payment,707,9613,8906,Finance,GOOGLE,2001,Cash
+TXN10002,29-02-2024, Liabilities,Utilities,Invoice payment,3899,3914,15,Sales,SCEPTER,300,Bank Transfer
+TXN10003,17-10-2023, Expenses,Utilities,Invoice payment,2147,2134,-13,HR,ASCEND,3666,Bank Transfer
+TXN10004,12-09-2024, Revenue,Loans,Loan repayment,4384,9522,5138,Finance,GOOGLE,2478,Credit Card
+TXN10005,11-11-2024, Liabilities,Sales Revenue,Invoice payment,3229,3815,586,Operations,PRIME-TECH,2313,Cash
+TXN10006,06-12-2023, Revenue, Rent,Monthly payment,3181,3396,215,Finance,ASCEND,2345,Bank Transfer
+TXN10007,13-10-2024, Expenses,Marketing,Invoice payment,1940,4858,2918,Sales,ASCEND,3968,Cash
+TXN10008,12-10-2024,Assets,Marketing,Invoice payment,3799,7625,3826,Sales,SCEPTER,3220,Credit Card
+TXN10009,04-04-2023, Expenses, Rent,Invoice payment,4518,9812,5294,Sales,PRIME-TECH,2881,Bank Transfer
+TXN10010,19-11-2023, Liabilities,Payroll,Service charge,561,7213,6652,Operations,PRIME-TECH,2201,Bank Transfer
+TXN10011,20-09-2023, Revenue,Marketing,Service charge,3116,4506,1390,Operations,ASCEND,2580,Credit Card
+TXN10012,27-12-2024,Assets,Utilities,Invoice payment,1301,9323,8022,Operations,GOOGLE,3968,Credit Card
+TXN10013,13-07-2023,Assets,Utilities,Loan repayment,1646,2387,741,Sales,ASCEND,2250,Cash
+TXN10014,09-05-2023, Liabilities,Marketing,Invoice payment,2018,6006,3988,Finance,PRIME-TECH,3448,Bank Transfer
+TXN10015,09-01-2024,Assets,Marketing,Service charge,422,3824,3402,Operations,GOOGLE,2002,Bank Transfer
+TXN10016,19-01-2025,Assets, Rent,Service charge,597,2068,1471,Finance,GOOGLE,3018,Credit Card
+TXN10017,10-01-2024, Revenue,Miscellaneous,Monthly payment,2934,6880,3946,Operations,GOOGLE,2694,Credit Card
+TXN10018,13-08-2024, Expenses,Miscellaneous,Invoice payment,2926,8077,5151,Operations,SCEPTER,2896,Bank Transfer
+TXN10019,25-07-2023, Revenue,Sales Revenue,Service charge,2728,2873,145,Finance,GOOGLE,2776,Credit Card
+TXN10020,04-12-2023,Assets,Marketing,Service charge,4418,3991,-427,HR,SCEPTER,2551,Cash
+TXN10021,12-03-2025, Liabilities,Utilities,Loan repayment,1484,6688,5204,Operations,GOOGLE,3578,Cash
+TXN10022,15-07-2024, Liabilities,Utilities,Monthly payment,4865,2821,-2044,Finance,PRIME-TECH,2811,Bank Transfer
+TXN10023,10-03-2024, Revenue,Miscellaneous,Invoice payment,1259,2833,1574,Finance,SCEPTER,2062,Credit Card
+TXN10024,29-08-2023, Liabilities,Payroll,Service charge,3050,3877,827,Sales,ASCEND,2959,Credit Card
+TXN10025,10-10-2024, Expenses,Marketing,Monthly payment,2460,6437,3977,HR,PRIME-TECH,2413,Credit Card
+TXN10026,02-07-2024,Assets, Rent,Loan repayment,671,7644,6973,HR,SCEPTER,3851,Cash
+TXN10027,14-01-2025,Assets,Sales Revenue,Invoice payment,747,2811,2064,Sales,PRIME-TECH,3908,Credit Card
+TXN10028,25-09-2024, Revenue,Utilities,Monthly payment,1152,6525,5373,Finance,GOOGLE,2591,Cash
+TXN10029,04-02-2025, Revenue,Loans,Invoice payment,2825,3446,621,Finance,ASCEND,2145,Credit Card
+TXN10030,16-04-2024, Liabilities,Payroll,Invoice payment,4214,6560,2346,Operations,SCEPTER,3785,Cash
+TXN10031,25-04-2023,Assets,Utilities,Monthly payment,1564,8327,6763,Finance,PRIME-TECH,3301,Credit Card
+TXN10032,17-06-2024,Assets,Miscellaneous,Invoice payment,4809,9336,4527,Finance,PRIME-TECH,3166,Bank Transfer
+TXN10033,21-03-2024, Liabilities,Sales Revenue,Monthly payment,697,3709,3012,Finance,PRIME-TECH,2726,Cash
+TXN10034,07-11-2023, Revenue, Rent,Loan repayment,2093,4553,2460,Operations,SCEPTER,3022,Credit Card
+TXN10035,03-07-2023, Revenue,Utilities,Invoice payment,3098,3084,-14,Operations,ASCEND,3686,Credit Card
+TXN10036,28-11-2023, Revenue,Miscellaneous,Service charge,1545,5221,3676,Operations,ASCEND,3262,Cash
+TXN10037,24-12-2024,Assets,Taxes,Invoice payment,2719,6553,3834,Sales,SCEPTER,3643,Credit Card
+TXN10038,22-05-2024, Expenses,Miscellaneous,Monthly payment,4985,6569,1584,HR,SCEPTER,3212,Bank Transfer
+TXN10039,06-01-2025, Liabilities, Rent,Invoice payment,3112,9493,6381,Sales,ASCEND,3468,Bank Transfer
+TXN10040,13-09-2024, Liabilities,Utilities,Monthly payment,667,3337,2670,Sales,SCEPTER,2362,Cash
+TXN10041,04-12-2024, Liabilities,Taxes,Invoice payment,484,4129,3645,Operations,PRIME-TECH,3320,Cash
+TXN10042,17-07-2023,Assets,Utilities,Monthly payment,4144,6919,2775,Finance,PRIME-TECH,3761,Cash
+TXN10043,02-08-2023, Expenses,Taxes,Invoice payment,3681,5304,1623,Finance,SCEPTER,3631,Credit Card
+TXN10044,29-06-2023, Revenue,Miscellaneous,Service charge,433,8321,7888,Operations,PRIME-TECH,3315,Bank Transfer
+TXN10045,06-09-2024, Revenue,Loans,Loan repayment,1338,5373,4035,Operations,ASCEND,2392,Cash
+TXN10046,29-03-2025,Assets,Sales Revenue,Service charge,379,8295,7916,Sales,GOOGLE,2963,Bank Transfer
+TXN10047,20-06-2024, Liabilities,Taxes,Service charge,1965,5309,3344,Operations,PRIME-TECH,2179,Bank Transfer
+TXN10048,16-05-2023, Liabilities,Marketing,Monthly payment,3984,9005,5021,Operations,GOOGLE,2816,Cash
+TXN10049,21-04-2024,Assets,Loans,Loan repayment,1548,7242,5694,Finance,PRIME-TECH,2097,Cash
+TXN10050,28-09-2024, Revenue,Marketing,Service charge,1826,6881,5055,Operations,SCEPTER,3545,Credit Card
+TXN10051,08-05-2023,Assets,Miscellaneous,Invoice payment,4231,6835,2604,Operations,ASCEND,3236,Cash
+TXN10052,26-08-2023, Revenue,Miscellaneous,Service charge,3030,7200,4170,Finance,ASCEND,3728,Cash
+TXN10053,10-06-2023, Liabilities, Rent,Invoice payment,1177,5967,4790,Sales,ASCEND,3750,Cash
+TXN10054,28-04-2024, Liabilities,Utilities,Loan repayment,2161,6925,4764,Finance,PRIME-TECH,2495,Bank Transfer
+TXN10055,19-02-2025,Assets,Marketing,Loan repayment,2505,2277,-228,Operations,GOOGLE,2639,Credit Card
+TXN10056,04-12-2023,Assets,Marketing,Invoice payment,4922,9518,4596,HR,PRIME-TECH,2015,Cash
+TXN10057,02-11-2024, Liabilities,Taxes,Invoice payment,3212,8491,5279,HR,SCEPTER,2517,Credit Card
+TXN10058,05-01-2025,Assets,Sales Revenue,Service charge,3228,6393,3165,HR,ASCEND,2924,Credit Card
+TXN10059,11-11-2023, Revenue,Payroll,Loan repayment,4924,5020,96,HR,ASCEND,2851,Cash
+TXN10060,26-03-2025,Assets, Rent,Invoice payment,2425,2842,417,Sales,GOOGLE,2801,Bank Transfer
+TXN10061,20-12-2023, Liabilities,Utilities,Invoice payment,450,2191,1741,HR,ASCEND,3363,Cash
+TXN10062,23-05-2023, Expenses,Miscellaneous,Service charge,546,9179,8633,HR,GOOGLE,2540,Cash
+TXN10063,30-07-2024, Revenue, Rent,Service charge,4775,5843,1068,HR,ASCEND,2329,Bank Transfer
+TXN10064,08-01-2025,Assets,Utilities,Monthly payment,3779,3100,-679,Finance,GOOGLE,2494,Bank Transfer
+TXN10065,08-09-2024, Expenses, Rent,Invoice payment,857,2335,1478,Operations,ASCEND,2478,Cash
+TXN10066,22-02-2024, Revenue,Payroll,Service charge,1889,7517,5628,Finance,PRIME-TECH,2291,Cash
+TXN10067,16-06-2023, Expenses,Loans,Invoice payment,2084,4590,2506,Operations,SCEPTER,3555,Cash
+TXN10068,03-11-2024, Liabilities,Loans,Monthly payment,3132,4341,1209,HR,ASCEND,3618,Cash
+TXN10069,29-07-2023, Expenses,Marketing,Service charge,4588,6002,1414,HR,PRIME-TECH,2197,Cash
+TXN10070,20-09-2023, Expenses,Utilities,Invoice payment,1528,7542,6014,Finance,SCEPTER,2158,Credit Card
+TXN10071,23-08-2024,Assets,Payroll,Loan repayment,957,9132,8175,HR,GOOGLE,2943,Credit Card
+TXN10072,01-08-2024, Liabilities,Taxes,Service charge,3042,8876,5834,Sales,PRIME-TECH,2714,Credit Card
+TXN10073,28-04-2023, Expenses,Payroll,Service charge,4603,4373,-230,Sales,GOOGLE,3699,Bank Transfer
+TXN10074,08-08-2024, Expenses,Payroll,Service charge,3473,7845,4372,HR,SCEPTER,3592,Cash
+TXN10075,27-11-2024,Assets,Sales Revenue,Invoice payment,4606,3366,-1240,HR,SCEPTER,3351,Bank Transfer
+TXN10076,17-10-2024, Expenses,Marketing,Service charge,1464,7054,5590,HR,PRIME-TECH,3632,Cash
+TXN10077,25-08-2024, Expenses,Utilities,Service charge,1404,6840,5436,Sales,ASCEND,2318,Bank Transfer
+TXN10078,14-05-2023, Expenses,Sales Revenue,Monthly payment,2737,9145,6408,Sales,GOOGLE,3548,Bank Transfer
+TXN10079,27-07-2024, Revenue, Rent,Invoice payment,1850,8376,6526,Operations,GOOGLE,3216,Cash
+TXN10080,22-03-2025, Expenses,Utilities,Invoice payment,3382,3295,-87,Finance,GOOGLE,3744,Bank Transfer
+TXN10081,15-05-2024, Liabilities,Marketing,Service charge,3179,8642,5463,Sales,GOOGLE,2879,Bank Transfer
+TXN10082,23-09-2024,Assets,Sales Revenue,Monthly payment,469,4554,4085,Finance,PRIME-TECH,3624,Cash
+TXN10083,15-09-2024, Expenses,Payroll,Monthly payment,2261,4458,2197,Operations,PRIME-TECH,3241,Cash
+TXN10084,30-11-2024, Liabilities,Payroll,Loan repayment,4264,2506,-1758,HR,PRIME-TECH,2735,Bank Transfer
+TXN10085,19-05-2024, Expenses,Miscellaneous,Invoice payment,3181,4801,1620,Sales,SCEPTER,2309,Credit Card
+TXN10086,16-01-2025, Revenue,Marketing,Service charge,4097,8321,4224,HR,SCEPTER,3778,Credit Card
+TXN10087,07-09-2023, Expenses,Loans,Service charge,4953,5965,1012,Operations,SCEPTER,2681,Bank Transfer
+TXN10088,01-10-2023, Liabilities, Rent,Invoice payment,729,4462,3733,Operations,GOOGLE,3025,Cash
+TXN10089,04-09-2024,Assets,Taxes,Invoice payment,397,7700,7303,Operations,SCEPTER,2553,Bank Transfer
+TXN10090,31-03-2024, Liabilities,Payroll,Invoice payment,710,8588,7878,HR,PRIME-TECH,3498,Bank Transfer
+TXN10091,28-07-2024,Assets, Rent,Invoice payment,4282,9525,5243,Operations,ASCEND,3982,Cash
+TXN10092,13-10-2024, Revenue,Loans,Loan repayment,4172,8261,4089,HR,GOOGLE,3806,Bank Transfer
+TXN10093,20-03-2025,Assets,Loans,Invoice payment,4792,3247,-1545,Operations,SCEPTER,2510,Cash
+TXN10094,31-12-2024, Expenses, Rent,Service charge,881,8928,8047,HR,SCEPTER,3846,Cash
+TXN10095,15-06-2023, Expenses,Sales Revenue,Service charge,3367,2205,-1162,Sales,SCEPTER,3527,Credit Card
+TXN10096,22-02-2025, Revenue,Loans,Monthly payment,2539,4398,1859,Operations,SCEPTER,3332,Bank Transfer
+TXN10097,25-10-2024, Revenue,Utilities,Monthly payment,363,4745,4382,Operations,ASCEND,3409,Credit Card
+TXN10098,26-01-2024,Assets,Marketing,Loan repayment,4374,7659,3285,Operations,SCEPTER,3244,Credit Card
+TXN10099,12-03-2024, Liabilities,Utilities,Loan repayment,3314,4041,727,Finance,ASCEND,2686,Bank Transfer
+TXN10100,19-02-2024, Liabilities,Sales Revenue,Monthly payment,1866,8130,6264,Finance,PRIME-TECH,3046,Bank Transfer
+TXN10101,13-04-2023,Assets,Sales Revenue,Invoice payment,2963,3768,805,HR,PRIME-TECH,2231,Cash
+TXN10102,25-08-2024, Expenses, Rent,Loan repayment,1065,7714,6649,Sales,PRIME-TECH,2444,Bank Transfer
+TXN10103,06-12-2023,Assets,Marketing,Loan repayment,891,4335,3444,Operations,GOOGLE,3051,Credit Card
+TXN10104,17-12-2024,Assets,Miscellaneous,Service charge,3916,5732,1816,Finance,SCEPTER,2558,Bank Transfer
+TXN10105,08-06-2023,Assets,Payroll,Service charge,1572,4485,2913,Sales,SCEPTER,2331,Bank Transfer
+TXN10106,05-04-2023, Revenue,Loans,Invoice payment,901,9743,8842,Sales,GOOGLE,2748,Credit Card
+TXN10107,06-02-2025, Liabilities,Payroll,Service charge,2235,8593,6358,Operations,PRIME-TECH,2226,Bank Transfer
+TXN10108,20-01-2025,Assets,Sales Revenue,Service charge,4784,7489,2705,Finance,ASCEND,2048,Cash
+TXN10109,13-04-2024, Liabilities,Sales Revenue,Loan repayment,1730,3310,1580,Finance,SCEPTER,2193,Bank Transfer
+TXN10110,20-09-2024, Expenses,Utilities,Service charge,2933,9184,6251,HR,ASCEND,2534,Credit Card
+TXN10111,03-04-2023,Assets, Rent,Service charge,4810,9419,4609,Operations,GOOGLE,2553,Credit Card
+TXN10112,06-12-2023, Revenue,Miscellaneous,Loan repayment,461,8138,7677,Sales,GOOGLE,3387,Cash
+TXN10113,20-06-2024, Liabilities,Miscellaneous,Loan repayment,4726,4958,232,Finance,GOOGLE,2525,Cash
+TXN10114,08-04-2023,Assets,Taxes,Monthly payment,396,9937,9541,Sales,ASCEND,3369,Cash
+TXN10115,22-06-2023, Expenses,Sales Revenue,Invoice payment,1729,7595,5866,HR,GOOGLE,3141,Cash
+TXN10116,22-02-2025, Expenses,Utilities,Monthly payment,3819,4022,203,Sales,ASCEND,3160,Credit Card
+TXN10117,09-06-2023, Expenses,Sales Revenue,Service charge,3183,3957,774,Operations,SCEPTER,2783,Credit Card
+TXN10118,10-05-2023, Revenue,Loans,Service charge,4344,5610,1266,HR,ASCEND,2635,Bank Transfer
+TXN10119,17-04-2024, Liabilities, Rent,Invoice payment,512,2012,1500,Operations,GOOGLE,3775,Credit Card
+TXN10120,07-05-2024, Revenue,Loans,Loan repayment,978,9312,8334,Finance,GOOGLE,2720,Bank Transfer
+TXN10121,21-05-2024, Liabilities,Sales Revenue,Invoice payment,1359,5667,4308,HR,SCEPTER,2029,Cash
+TXN10122,17-06-2024, Revenue,Loans,Service charge,2051,9922,7871,Operations,ASCEND,2155,Bank Transfer
+TXN10123,17-09-2024,Assets,Miscellaneous,Loan repayment,2771,6674,3903,Sales,PRIME-TECH,3792,Bank Transfer
+TXN10124,29-01-2024, Revenue,Miscellaneous,Service charge,1545,8075,6530,Finance,PRIME-TECH,2658,Credit Card
+TXN10125,07-08-2024, Expenses,Utilities,Invoice payment,3758,4415,657,Operations,SCEPTER,3754,Credit Card
+TXN10126,31-05-2024, Expenses,Taxes,Monthly payment,2018,3489,1471,Operations,GOOGLE,2920,Bank Transfer
+TXN10127,12-01-2024, Expenses,Utilities,Monthly payment,1329,6091,4762,Sales,PRIME-TECH,3943,Cash
+TXN10128,16-03-2025, Revenue,Loans,Service charge,2831,8461,5630,HR,SCEPTER,2079,Credit Card
+TXN10129,29-10-2023, Liabilities, Rent,Invoice payment,3759,4925,1166,HR,GOOGLE,2403,Cash
+TXN10130,09-11-2023, Expenses,Payroll,Invoice payment,2144,2884,740,Operations,PRIME-TECH,2400,Cash
+TXN10131,20-02-2025, Revenue,Taxes,Loan repayment,1604,4397,2793,Operations,PRIME-TECH,2530,Credit Card
+TXN10132,01-07-2023, Liabilities,Payroll,Monthly payment,675,4503,3828,Operations,SCEPTER,3609,Cash
+TXN10133,15-01-2024, Liabilities,Marketing,Monthly payment,3465,5988,2523,Finance,ASCEND,3033,Credit Card
+TXN10134,28-05-2024, Revenue,Utilities,Monthly payment,933,8518,7585,Sales,GOOGLE,3558,Credit Card
+TXN10135,26-06-2024,Assets, Rent,Loan repayment,495,4582,4087,Finance,SCEPTER,3191,Cash
+TXN10136,17-09-2023,Assets,Marketing,Service charge,1133,6931,5798,Sales,ASCEND,2866,Bank Transfer
+TXN10137,11-09-2024,Assets,Miscellaneous,Monthly payment,3286,3484,198,Finance,GOOGLE,2430,Cash
+TXN10138,26-08-2024, Expenses,Sales Revenue,Loan repayment,3480,4866,1386,Sales,ASCEND,2705,Credit Card
+TXN10139,30-01-2025, Liabilities,Utilities,Service charge,4057,7109,3052,Sales,SCEPTER,3895,Cash
+TXN10140,01-10-2024, Expenses,Loans,Loan repayment,1222,5906,4684,HR,GOOGLE,2818,Credit Card
+TXN10141,03-10-2024, Revenue,Marketing,Invoice payment,4735,4328,-407,HR,PRIME-TECH,3323,Credit Card
+TXN10142,04-12-2024,Assets,Sales Revenue,Loan repayment,1533,9295,7762,Operations,ASCEND,2805,Bank Transfer
+TXN10143,28-04-2023, Liabilities,Taxes,Service charge,1447,9276,7829,Operations,SCEPTER,3476,Credit Card
+TXN10144,19-10-2024, Revenue,Taxes,Service charge,2250,4349,2099,Operations,SCEPTER,3658,Cash
+TXN10145,14-10-2023, Revenue,Utilities,Invoice payment,1591,7945,6354,Operations,PRIME-TECH,3872,Cash
+TXN10146,27-05-2023, Expenses, Rent,Service charge,1951,7173,5222,Finance,SCEPTER,3896,Cash
+TXN10147,01-05-2023, Liabilities,Utilities,Loan repayment,4131,4031,-100,Finance,PRIME-TECH,3085,Cash
+TXN10148,10-11-2024,Assets,Miscellaneous,Invoice payment,1397,6187,4790,Operations,PRIME-TECH,2651,Cash
+TXN10149,06-09-2024, Revenue,Sales Revenue,Service charge,1994,2448,454,Finance,GOOGLE,2022,Bank Transfer
+TXN10150,01-05-2024,Assets,Loans,Service charge,4462,7708,3246,Operations,PRIME-TECH,3888,Cash
+TXN10151,24-06-2023, Revenue,Taxes,Monthly payment,2115,5068,2953,Finance,PRIME-TECH,3626,Credit Card
+TXN10152,04-06-2023, Expenses,Payroll,Loan repayment,3268,2985,-283,HR,PRIME-TECH,2290,Bank Transfer
+TXN10153,30-06-2023, Revenue,Miscellaneous,Invoice payment,2492,7372,4880,Sales,SCEPTER,2040,Bank Transfer
+TXN10154,19-05-2024, Expenses, Rent,Loan repayment,1224,8804,7580,HR,SCEPTER,3139,Bank Transfer
+TXN10155,25-11-2024, Expenses,Utilities,Loan repayment,2200,7336,5136,HR,GOOGLE,2011,Cash
+TXN10156,06-06-2023,Assets,Miscellaneous,Monthly payment,4374,9333,4959,Finance,ASCEND,2716,Cash
+TXN10157,25-12-2024, Expenses,Taxes,Monthly payment,1652,9674,8022,Operations,PRIME-TECH,3329,Cash
+TXN10158,09-04-2023,Assets,Marketing,Service charge,1332,6938,5606,Finance,GOOGLE,3140,Credit Card
+TXN10159,10-03-2025, Liabilities,Loans,Loan repayment,2740,9324,6584,Finance,GOOGLE,3008,Credit Card
+TXN10160,20-10-2024, Liabilities,Utilities,Loan repayment,1541,6655,5114,Operations,PRIME-TECH,2791,Bank Transfer
+TXN10161,25-12-2023, Liabilities, Rent,Service charge,535,3441,2906,Sales,SCEPTER,2374,Cash
+TXN10162,08-11-2024, Revenue,Marketing,Invoice payment,897,9423,8526,Finance,PRIME-TECH,3261,Bank Transfer
+TXN10163,04-06-2023, Liabilities,Loans,Monthly payment,875,3344,2469,Operations,GOOGLE,2684,Bank Transfer
+TXN10164,28-03-2024, Revenue, Rent,Loan repayment,3605,8511,4906,Operations,PRIME-TECH,2501,Credit Card
+TXN10165,15-09-2024, Expenses,Marketing,Service charge,2595,8121,5526,Sales,PRIME-TECH,2076,Credit Card
+TXN10166,12-08-2023, Revenue,Payroll,Loan repayment,4922,3598,-1324,Operations,PRIME-TECH,3063,Bank Transfer
+TXN10167,15-10-2023, Expenses,Taxes,Invoice payment,4537,4401,-136,HR,ASCEND,2768,Credit Card
+TXN10168,17-03-2024, Expenses,Utilities,Invoice payment,4952,2102,-2850,Sales,SCEPTER,3893,Credit Card
+TXN10169,03-09-2023, Expenses,Miscellaneous,Service charge,1070,4733,3663,HR,ASCEND,3961,Credit Card
+TXN10170,27-11-2023,Assets,Sales Revenue,Invoice payment,1486,8722,7236,Sales,GOOGLE,3851,Cash
+TXN10171,20-11-2024, Expenses,Loans,Loan repayment,4929,7267,2338,Finance,GOOGLE,2781,Cash
+TXN10172,01-04-2024, Liabilities,Miscellaneous,Loan repayment,660,9194,8534,Sales,PRIME-TECH,3349,Credit Card
+TXN10173,30-01-2024, Liabilities,Miscellaneous,Loan repayment,3777,7246,3469,Finance,GOOGLE,3606,Credit Card
+TXN10174,18-02-2024,Assets,Marketing,Service charge,4531,7888,3357,HR,SCEPTER,2666,Bank Transfer
+TXN10175,16-04-2023,Assets, Rent,Monthly payment,2093,5531,3438,Finance,GOOGLE,3915,Bank Transfer
+TXN10176,04-08-2023,Assets,Taxes,Invoice payment,2017,3547,1530,Finance,PRIME-TECH,2416,Cash
+TXN10177,24-09-2024, Revenue,Miscellaneous,Loan repayment,4392,2782,-1610,Operations,GOOGLE,2205,Bank Transfer
+TXN10178,14-09-2023, Expenses,Payroll,Monthly payment,1855,2435,580,HR,PRIME-TECH,2647,Cash
+TXN10179,08-02-2025, Revenue,Utilities,Service charge,1925,4124,2199,Finance,ASCEND,3691,Bank Transfer
+TXN10180,29-02-2024, Expenses,Taxes,Invoice payment,3035,2401,-634,Finance,PRIME-TECH,3623,Credit Card
+TXN10181,02-04-2023, Expenses, Rent,Loan repayment,2916,2586,-330,HR,ASCEND,3494,Bank Transfer
+TXN10182,21-06-2024, Liabilities,Utilities,Invoice payment,4497,7260,2763,Finance,GOOGLE,3919,Cash
+TXN10183,12-05-2024,Assets,Sales Revenue,Service charge,4410,3458,-952,Finance,ASCEND,3907,Credit Card
+TXN10184,06-08-2024, Revenue,Utilities,Loan repayment,2586,2125,-461,HR,PRIME-TECH,3223,Cash
+TXN10185,23-03-2025, Revenue,Utilities,Monthly payment,3584,5845,2261,Sales,SCEPTER,2992,Bank Transfer
+TXN10186,16-08-2023, Liabilities,Payroll,Monthly payment,2181,9404,7223,Sales,GOOGLE,2857,Bank Transfer
+TXN10187,10-12-2023, Revenue,Sales Revenue,Invoice payment,373,2900,2527,Sales,GOOGLE,3413,Cash
+TXN10188,15-07-2024,Assets,Sales Revenue,Invoice payment,3262,4090,828,Finance,GOOGLE,2465,Credit Card
+TXN10189,20-03-2025, Liabilities,Payroll,Service charge,3020,3306,286,HR,ASCEND,3785,Bank Transfer
+TXN10190,27-03-2025, Revenue,Utilities,Loan repayment,1331,9492,8161,HR,GOOGLE,2559,Bank Transfer
+TXN10191,18-05-2023, Liabilities,Taxes,Invoice payment,4443,2772,-1671,Sales,ASCEND,2570,Bank Transfer
+TXN10192,04-08-2023, Revenue,Sales Revenue,Service charge,4013,5460,1447,Sales,GOOGLE,3355,Bank Transfer
+TXN10193,22-07-2024,Assets, Rent,Monthly payment,4915,4349,-566,HR,PRIME-TECH,3603,Bank Transfer
+TXN10194,15-05-2023, Liabilities,Payroll,Loan repayment,2294,7560,5266,Operations,SCEPTER,3414,Credit Card
+TXN10195,16-09-2024,Assets,Payroll,Invoice payment,4667,9020,4353,Finance,PRIME-TECH,2564,Bank Transfer
+TXN10196,06-08-2024, Liabilities, Rent,Invoice payment,4496,7225,2729,Operations,SCEPTER,2765,Cash
+TXN10197,04-10-2023, Expenses,Taxes,Monthly payment,780,3170,2390,Finance,GOOGLE,2279,Credit Card
+TXN10198,12-09-2023, Liabilities,Miscellaneous,Invoice payment,1221,2763,1542,Sales,PRIME-TECH,2916,Credit Card
+TXN10199,19-09-2024, Revenue,Sales Revenue,Monthly payment,815,7410,6595,Sales,PRIME-TECH,2436,Credit Card
+TXN10200,14-05-2024, Expenses,Sales Revenue,Invoice payment,536,9664,9128,HR,PRIME-TECH,3133,Bank Transfer
+TXN10201,16-02-2025,Assets,Marketing,Invoice payment,4967,5823,856,Operations,GOOGLE,3878,Cash
+TXN10202,14-10-2023, Revenue,Sales Revenue,Invoice payment,3716,8048,4332,Sales,PRIME-TECH,2119,Cash
+TXN10203,29-02-2024, Expenses,Utilities,Invoice payment,3091,4003,912,Finance,SCEPTER,3858,Cash
+TXN10204,14-10-2023, Expenses,Miscellaneous,Service charge,778,4542,3764,HR,SCEPTER,3982,Credit Card
+TXN10205,29-05-2024,Assets,Miscellaneous,Monthly payment,3760,3941,181,Finance,SCEPTER,2428,Credit Card
+TXN10206,31-05-2023, Liabilities,Utilities,Loan repayment,1777,3895,2118,Sales,SCEPTER,3371,Credit Card
+TXN10207,24-05-2024, Liabilities,Loans,Loan repayment,4742,6379,1637,HR,GOOGLE,2256,Bank Transfer
+TXN10208,12-05-2024,Assets,Loans,Service charge,1136,5853,4717,Operations,SCEPTER,3933,Credit Card
+TXN10209,06-01-2025, Expenses,Taxes,Service charge,2170,6192,4022,Operations,PRIME-TECH,2400,Cash
+TXN10210,01-08-2024, Liabilities,Miscellaneous,Loan repayment,3940,3304,-636,Sales,ASCEND,3265,Credit Card
+TXN10211,05-10-2023, Revenue,Taxes,Service charge,948,8308,7360,Finance,ASCEND,3496,Bank Transfer
+TXN10212,09-12-2024, Liabilities,Payroll,Loan repayment,1106,9414,8308,Sales,PRIME-TECH,3153,Cash
+TXN10213,12-10-2024, Revenue,Miscellaneous,Monthly payment,4388,7268,2880,Operations,PRIME-TECH,2598,Credit Card
+TXN10214,29-10-2024, Expenses,Sales Revenue,Monthly payment,1000,9847,8847,HR,PRIME-TECH,3849,Bank Transfer
+TXN10215,12-12-2024, Revenue,Marketing,Invoice payment,1062,5805,4743,HR,SCEPTER,3993,Credit Card
+TXN10216,02-11-2023, Revenue,Payroll,Invoice payment,3506,6267,2761,Operations,SCEPTER,2904,Bank Transfer
+TXN10217,20-08-2023, Revenue,Marketing,Invoice payment,1705,8710,7005,Finance,PRIME-TECH,3078,Cash
+TXN10218,23-03-2025, Liabilities,Payroll,Monthly payment,875,4753,3878,Finance,SCEPTER,3326,Credit Card
+TXN10219,17-12-2023, Revenue, Rent,Invoice payment,3333,7958,4625,Finance,ASCEND,3903,Bank Transfer
+TXN10220,06-01-2024, Expenses,Marketing,Invoice payment,556,6861,6305,Sales,PRIME-TECH,2615,Credit Card
+TXN10221,01-02-2024,Assets,Payroll,Invoice payment,3523,6435,2912,Sales,PRIME-TECH,2561,Cash
+TXN10222,21-11-2023, Liabilities,Payroll,Loan repayment,844,7939,7095,Operations,SCEPTER,2573,Cash
+TXN10223,16-03-2025, Liabilities, Rent,Loan repayment,3418,6894,3476,Operations,GOOGLE,3080,Credit Card
+TXN10224,15-03-2024, Liabilities,Marketing,Invoice payment,2961,3276,315,Finance,GOOGLE,2601,Bank Transfer
+TXN10225,30-10-2024, Revenue,Sales Revenue,Loan repayment,1490,8469,6979,Finance,GOOGLE,3493,Bank Transfer
+TXN10226,21-10-2023, Revenue,Sales Revenue,Monthly payment,1014,2807,1793,Operations,GOOGLE,2160,Bank Transfer
+TXN10227,17-10-2024, Expenses,Utilities,Monthly payment,4835,6827,1992,Operations,PRIME-TECH,3738,Credit Card
+TXN10228,10-02-2025,Assets,Marketing,Loan repayment,4274,7519,3245,Finance,PRIME-TECH,2965,Bank Transfer
+TXN10229,25-08-2023,Assets,Taxes,Loan repayment,2680,5740,3060,Finance,SCEPTER,2351,Cash
+TXN10230,22-06-2023, Revenue,Payroll,Service charge,2466,6645,4179,Operations,GOOGLE,2300,Cash
+TXN10231,11-01-2024,Assets,Payroll,Service charge,993,8090,7097,Sales,GOOGLE,3743,Cash
+TXN10232,12-03-2024, Liabilities,Sales Revenue,Monthly payment,2536,6754,4218,HR,SCEPTER,2564,Credit Card
+TXN10233,20-06-2023, Liabilities, Rent,Invoice payment,4214,7310,3096,HR,PRIME-TECH,2958,Bank Transfer
+TXN10234,10-03-2024, Revenue,Utilities,Loan repayment,3083,7742,4659,Finance,SCEPTER,3457,Cash
+TXN10235,28-01-2024, Expenses,Taxes,Monthly payment,2208,6877,4669,HR,SCEPTER,3529,Credit Card
+TXN10236,22-10-2024,Assets,Marketing,Loan repayment,2477,2810,333,Sales,ASCEND,2708,Cash
+TXN10237,17-01-2024,Assets,Payroll,Invoice payment,3531,9135,5604,Operations,SCEPTER,3392,Bank Transfer
+TXN10238,18-03-2024,Assets,Miscellaneous,Monthly payment,1071,5194,4123,Finance,SCEPTER,3470,Credit Card
+TXN10239,11-02-2025,Assets,Marketing,Service charge,4073,3401,-672,Operations,PRIME-TECH,3263,Credit Card
+TXN10240,27-01-2024, Liabilities,Utilities,Service charge,4656,3248,-1408,Sales,SCEPTER,2615,Cash
+TXN10241,01-12-2024,Assets, Rent,Loan repayment,1954,9193,7239,Operations,PRIME-TECH,2866,Cash
+TXN10242,24-06-2024, Expenses,Utilities,Service charge,1423,8169,6746,Sales,ASCEND,2328,Credit Card
+TXN10243,16-10-2024, Liabilities,Taxes,Service charge,2345,3858,1513,Finance,ASCEND,3464,Credit Card
+TXN10244,10-06-2023, Revenue, Rent,Invoice payment,4618,2309,-2309,Finance,ASCEND,2104,Credit Card
+TXN10245,07-01-2025, Expenses,Miscellaneous,Invoice payment,1248,9791,8543,Sales,PRIME-TECH,2417,Bank Transfer
+TXN10246,05-12-2023,Assets,Sales Revenue,Invoice payment,2355,9035,6680,Sales,PRIME-TECH,3950,Bank Transfer
+TXN10247,19-01-2025,Assets,Taxes,Monthly payment,733,4541,3808,HR,SCEPTER,2207,Credit Card
+TXN10248,12-11-2024, Expenses,Utilities,Monthly payment,1861,4573,2712,HR,SCEPTER,2756,Bank Transfer
+TXN10249,18-11-2023,Assets,Utilities,Invoice payment,3351,3787,436,Sales,SCEPTER,2461,Cash
+TXN10250,16-05-2024,Assets,Loans,Loan repayment,1501,5284,3783,Sales,SCEPTER,2953,Credit Card
+TXN10251,26-02-2025, Revenue,Miscellaneous,Invoice payment,4602,3693,-909,Sales,PRIME-TECH,3704,Cash
+TXN10252,16-09-2023, Expenses,Payroll,Service charge,510,9741,9231,Sales,SCEPTER,2468,Cash
+TXN10253,07-11-2023, Revenue,Loans,Loan repayment,4557,5494,937,Finance,SCEPTER,3875,Bank Transfer
+TXN10254,10-07-2024, Expenses,Taxes,Loan repayment,1858,6887,5029,Operations,PRIME-TECH,2998,Cash
+TXN10255,02-10-2024, Revenue, Rent,Loan repayment,1126,7339,6213,HR,GOOGLE,3347,Cash
+TXN10256,02-04-2024, Liabilities,Payroll,Service charge,4636,8689,4053,Finance,PRIME-TECH,3401,Cash
+TXN10257,28-01-2025,Assets,Taxes,Service charge,4373,6301,1928,Finance,SCEPTER,2373,Credit Card
+TXN10258,20-09-2024, Liabilities,Taxes,Invoice payment,4391,7291,2900,Operations,GOOGLE,3207,Cash
+TXN10259,30-09-2024,Assets,Loans,Monthly payment,4170,9400,5230,Finance,GOOGLE,2569,Credit Card
+TXN10260,23-04-2023, Liabilities,Utilities,Monthly payment,4437,8125,3688,Sales,GOOGLE,3916,Credit Card
+TXN10261,20-07-2024, Expenses,Miscellaneous,Invoice payment,1181,8845,7664,Operations,GOOGLE,2131,Credit Card
+TXN10262,06-10-2024, Liabilities,Taxes,Service charge,4474,2188,-2286,Sales,SCEPTER,3294,Bank Transfer
+TXN10263,07-09-2023,Assets,Payroll,Loan repayment,3601,2354,-1247,Operations,GOOGLE,3638,Cash
+TXN10264,16-01-2025, Expenses,Sales Revenue,Loan repayment,2086,9020,6934,Finance,SCEPTER,3217,Bank Transfer
+TXN10265,07-01-2025, Revenue,Utilities,Invoice payment,1988,9267,7279,Sales,PRIME-TECH,3228,Bank Transfer
+TXN10266,12-11-2024, Expenses, Rent,Service charge,3704,9032,5328,Operations,PRIME-TECH,3747,Credit Card
+TXN10267,22-05-2024, Liabilities,Loans,Loan repayment,4279,5810,1531,Finance,SCEPTER,2187,Credit Card
+TXN10268,14-04-2023,Assets,Utilities,Monthly payment,3813,8726,4913,Sales,ASCEND,3572,Bank Transfer
+TXN10269,02-10-2023, Liabilities,Utilities,Monthly payment,4462,7502,3040,Finance,SCEPTER,2020,Credit Card
+TXN10270,22-05-2024, Liabilities,Sales Revenue,Service charge,920,3229,2309,Operations,GOOGLE,3099,Credit Card
+TXN10271,28-11-2023, Expenses,Taxes,Invoice payment,3470,9094,5624,Finance,SCEPTER,3795,Bank Transfer
+TXN10272,14-06-2023,Assets,Payroll,Invoice payment,2189,5926,3737,Finance,GOOGLE,3584,Credit Card
+TXN10273,18-10-2024, Liabilities,Marketing,Monthly payment,1556,2458,902,Operations,GOOGLE,3455,Credit Card
+TXN10274,13-06-2024, Liabilities,Taxes,Loan repayment,3580,4115,535,HR,PRIME-TECH,3420,Bank Transfer
+TXN10275,12-03-2025, Liabilities,Utilities,Loan repayment,3976,6395,2419,Sales,PRIME-TECH,2657,Cash
+TXN10276,24-05-2023,Assets,Marketing,Invoice payment,3426,8972,5546,HR,SCEPTER,3803,Bank Transfer
+TXN10277,05-02-2024,Assets, Rent,Invoice payment,3666,7606,3940,Operations,ASCEND,3024,Bank Transfer
+TXN10278,28-05-2024, Revenue,Payroll,Monthly payment,4312,2914,-1398,Finance,ASCEND,2756,Credit Card
+TXN10279,01-09-2023, Liabilities,Taxes,Service charge,3664,8048,4384,HR,PRIME-TECH,3688,Credit Card
+TXN10280,18-02-2025, Revenue,Miscellaneous,Service charge,4945,2148,-2797,Operations,ASCEND,3456,Cash
+TXN10281,04-06-2023, Expenses,Taxes,Service charge,4816,2939,-1877,Operations,PRIME-TECH,3882,Credit Card
+TXN10282,14-02-2024, Liabilities,Taxes,Monthly payment,3270,9068,5798,Operations,GOOGLE,2238,Credit Card
+TXN10283,24-02-2024,Assets, Rent,Invoice payment,4370,3725,-645,Sales,ASCEND,3742,Cash
+TXN10284,01-06-2024, Revenue,Miscellaneous,Invoice payment,2456,3217,761,HR,SCEPTER,3937,Credit Card
+TXN10285,15-06-2024, Liabilities,Sales Revenue,Service charge,2279,9061,6782,Operations,ASCEND,3860,Cash
+TXN10286,29-04-2024, Revenue, Rent,Invoice payment,3593,5587,1994,HR,GOOGLE,3346,Cash
+TXN10287,17-05-2023, Expenses,Utilities,Monthly payment,1465,9099,7634,Operations,PRIME-TECH,2531,Credit Card
+TXN10288,06-08-2024,Assets,Payroll,Service charge,4808,9317,4509,Sales,SCEPTER,3163,Cash
+TXN10289,28-01-2024, Expenses,Loans,Invoice payment,1298,6322,5024,Operations,ASCEND,2733,Cash
+TXN10290,22-01-2024, Revenue,Taxes,Service charge,4614,6095,1481,Sales,GOOGLE,2876,Bank Transfer
+TXN10291,29-07-2024,Assets,Utilities,Monthly payment,2755,4584,1829,Finance,SCEPTER,2808,Credit Card
+TXN10292,13-12-2024, Expenses,Marketing,Loan repayment,2923,6951,4028,Operations,GOOGLE,3278,Credit Card
+TXN10293,10-03-2024, Liabilities,Miscellaneous,Invoice payment,4671,6224,1553,HR,ASCEND,3812,Credit Card
+TXN10294,16-04-2023,Assets,Miscellaneous,Monthly payment,653,3769,3116,HR,SCEPTER,2788,Bank Transfer
+TXN10295,15-12-2023, Expenses,Miscellaneous,Invoice payment,812,2776,1964,Sales,PRIME-TECH,2296,Cash
+TXN10296,04-12-2024, Liabilities,Marketing,Service charge,4547,8019,3472,Finance,ASCEND,3152,Cash
+TXN10297,09-12-2023,Assets,Miscellaneous,Service charge,2293,9886,7593,Sales,SCEPTER,3092,Bank Transfer
+TXN10298,11-09-2024, Revenue,Sales Revenue,Loan repayment,3937,2076,-1861,HR,PRIME-TECH,2577,Cash
+TXN10299,21-06-2023,Assets,Taxes,Service charge,4055,6423,2368,HR,GOOGLE,3337,Bank Transfer
+TXN10300,28-03-2024, Liabilities,Sales Revenue,Monthly payment,1424,9145,7721,Operations,GOOGLE,3580,Bank Transfer
+TXN10301,30-05-2024,Assets,Sales Revenue,Invoice payment,1216,3558,2342,Sales,PRIME-TECH,3707,Credit Card
+TXN10302,12-07-2024, Expenses,Utilities,Loan repayment,2854,8665,5811,Finance,ASCEND,2339,Credit Card
+TXN10303,11-10-2024, Expenses,Utilities,Loan repayment,2067,9029,6962,HR,SCEPTER,2059,Credit Card
+TXN10304,10-09-2024, Revenue,Payroll,Loan repayment,1595,5706,4111,Finance,PRIME-TECH,3370,Cash
+TXN10305,06-12-2023, Revenue,Loans,Invoice payment,1986,5211,3225,Operations,SCEPTER,2068,Credit Card
+TXN10306,25-06-2023, Revenue, Rent,Invoice payment,403,6237,5834,HR,GOOGLE,3638,Credit Card
+TXN10307,28-09-2024, Revenue,Loans,Monthly payment,2563,8802,6239,Sales,SCEPTER,3097,Bank Transfer
+TXN10308,16-03-2024, Expenses,Loans,Loan repayment,2542,5438,2896,HR,GOOGLE,2703,Cash
+TXN10309,27-12-2023, Revenue,Utilities,Service charge,2773,9895,7122,Finance,SCEPTER,2330,Credit Card
+TXN10310,10-09-2023, Expenses,Taxes,Invoice payment,2203,9425,7222,HR,PRIME-TECH,2150,Credit Card
+TXN10311,13-12-2024, Liabilities,Loans,Invoice payment,1208,3338,2130,Operations,ASCEND,2702,Bank Transfer
+TXN10312,05-12-2024, Liabilities,Utilities,Invoice payment,4217,8330,4113,Sales,ASCEND,3043,Credit Card
+TXN10313,22-08-2023, Revenue,Marketing,Monthly payment,4364,9971,5607,Sales,GOOGLE,3397,Cash
+TXN10314,09-12-2024, Revenue,Marketing,Loan repayment,4063,9878,5815,Sales,PRIME-TECH,3099,Bank Transfer
+TXN10315,28-11-2023, Liabilities, Rent,Invoice payment,2940,4905,1965,Finance,PRIME-TECH,2189,Cash
+TXN10316,30-07-2023, Liabilities,Marketing,Service charge,1471,6572,5101,Operations,GOOGLE,3096,Bank Transfer
+TXN10317,19-10-2024, Revenue,Payroll,Monthly payment,3077,8990,5913,Finance,GOOGLE,3502,Cash
+TXN10318,24-05-2023, Expenses,Taxes,Monthly payment,1541,6443,4902,Sales,PRIME-TECH,2602,Cash
+TXN10319,26-01-2024, Liabilities,Marketing,Monthly payment,2563,4522,1959,Sales,GOOGLE,3162,Cash
+TXN10320,20-04-2024, Liabilities, Rent,Monthly payment,1990,9948,7958,Operations,SCEPTER,2122,Bank Transfer
+TXN10321,04-01-2025, Revenue,Loans,Service charge,4137,4564,427,Sales,SCEPTER,3092,Cash
+TXN10322,02-08-2023, Liabilities,Loans,Service charge,1920,6791,4871,Finance,ASCEND,3498,Cash
+TXN10323,29-07-2024, Revenue,Utilities,Invoice payment,1037,5924,4887,HR,ASCEND,2217,Credit Card
+TXN10324,02-03-2025, Revenue,Marketing,Service charge,1776,9082,7306,Finance,GOOGLE,2008,Bank Transfer
+TXN10325,09-11-2024,Assets, Rent,Loan repayment,625,5091,4466,Sales,ASCEND,3636,Cash
+TXN10326,31-05-2023, Revenue,Utilities,Service charge,2593,5121,2528,Finance,SCEPTER,2561,Bank Transfer
+TXN10327,01-05-2024, Liabilities,Payroll,Loan repayment,2235,3540,1305,Sales,PRIME-TECH,3434,Credit Card
+TXN10328,04-04-2024,Assets,Sales Revenue,Loan repayment,4788,4790,2,Operations,SCEPTER,2947,Cash
+TXN10329,28-03-2025, Revenue, Rent,Service charge,3564,4386,822,Finance,PRIME-TECH,3308,Credit Card
+TXN10330,21-06-2024, Revenue, Rent,Monthly payment,2779,8430,5651,Operations,PRIME-TECH,2654,Bank Transfer
+TXN10331,20-06-2024, Liabilities,Marketing,Invoice payment,1129,7215,6086,Sales,ASCEND,3353,Credit Card
+TXN10332,25-05-2023, Revenue, Rent,Service charge,3916,8858,4942,HR,GOOGLE,2787,Bank Transfer
+TXN10333,15-02-2024, Revenue,Payroll,Service charge,1001,2177,1176,Finance,SCEPTER,2268,Bank Transfer
+TXN10334,24-01-2025, Expenses,Marketing,Monthly payment,3364,6932,3568,Operations,SCEPTER,2918,Credit Card
+TXN10335,10-12-2023, Expenses,Payroll,Loan repayment,3533,9866,6333,Operations,ASCEND,2596,Cash
+TXN10336,15-01-2025,Assets, Rent,Invoice payment,3542,3112,-430,Finance,GOOGLE,3035,Cash
+TXN10337,01-09-2024, Liabilities, Rent,Invoice payment,1155,6763,5608,Sales,GOOGLE,3915,Credit Card
+TXN10338,06-07-2024, Expenses, Rent,Loan repayment,4276,2594,-1682,Operations,GOOGLE,2861,Bank Transfer
+TXN10339,20-04-2023, Liabilities,Sales Revenue,Invoice payment,4922,9206,4284,Operations,SCEPTER,2926,Bank Transfer
+TXN10340,21-04-2023, Liabilities,Utilities,Invoice payment,2034,2282,248,Operations,SCEPTER,2040,Credit Card
+TXN10341,19-07-2023, Revenue,Sales Revenue,Monthly payment,4835,8734,3899,Finance,ASCEND,3310,Bank Transfer
+TXN10342,10-11-2023, Expenses,Payroll,Loan repayment,4886,3160,-1726,HR,PRIME-TECH,3078,Bank Transfer
+TXN10343,02-08-2024, Expenses,Taxes,Monthly payment,4702,7790,3088,Sales,SCEPTER,3843,Cash
+TXN10344,28-11-2023, Liabilities,Miscellaneous,Invoice payment,2726,8428,5702,Finance,PRIME-TECH,3245,Credit Card
+TXN10345,24-06-2023, Revenue,Sales Revenue,Loan repayment,2133,6554,4421,Operations,GOOGLE,3894,Bank Transfer
+TXN10346,21-01-2024, Revenue,Miscellaneous,Monthly payment,3374,6416,3042,Finance,SCEPTER,2596,Credit Card
+TXN10347,19-04-2023, Liabilities,Sales Revenue,Invoice payment,913,3321,2408,HR,SCEPTER,2855,Cash
+TXN10348,25-05-2024, Liabilities,Payroll,Service charge,3629,2547,-1082,Operations,PRIME-TECH,2079,Credit Card
+TXN10349,17-02-2025, Revenue,Payroll,Service charge,3750,3448,-302,Operations,SCEPTER,2375,Cash
+TXN10350,19-04-2023, Liabilities,Miscellaneous,Monthly payment,3161,7588,4427,Finance,SCEPTER,2871,Cash
+TXN10351,15-08-2023, Liabilities,Utilities,Invoice payment,3086,4684,1598,Operations,SCEPTER,3689,Cash
+TXN10352,17-07-2023, Revenue,Miscellaneous,Monthly payment,2254,4446,2192,Finance,GOOGLE,2648,Bank Transfer
+TXN10353,05-12-2023,Assets,Marketing,Invoice payment,2058,2486,428,Operations,ASCEND,3290,Cash
+TXN10354,20-10-2024, Liabilities, Rent,Invoice payment,363,3383,3020,HR,SCEPTER,3460,Cash
+TXN10355,09-11-2024, Revenue,Utilities,Loan repayment,1923,7412,5489,Sales,GOOGLE,3544,Cash
+TXN10356,20-04-2023, Revenue,Utilities,Service charge,2486,2969,483,HR,GOOGLE,3664,Credit Card
+TXN10357,29-08-2024, Expenses,Loans,Loan repayment,4333,5023,690,Finance,GOOGLE,3591,Bank Transfer
+TXN10358,22-04-2023,Assets,Sales Revenue,Monthly payment,1083,4009,2926,Sales,PRIME-TECH,2425,Credit Card
+TXN10359,06-06-2024, Revenue,Loans,Invoice payment,995,9657,8662,Sales,ASCEND,3246,Bank Transfer
+TXN10360,13-09-2023, Expenses,Marketing,Loan repayment,1798,6263,4465,Sales,ASCEND,3274,Credit Card
+TXN10361,19-10-2023, Expenses,Payroll,Loan repayment,1814,3560,1746,Operations,PRIME-TECH,3988,Credit Card
+TXN10362,30-09-2024,Assets,Payroll,Monthly payment,1009,5117,4108,Finance,PRIME-TECH,3417,Credit Card
+TXN10363,17-02-2025, Revenue,Payroll,Loan repayment,4008,6907,2899,Operations,PRIME-TECH,2873,Bank Transfer
+TXN10364,23-04-2024, Liabilities,Taxes,Monthly payment,1343,8936,7593,Operations,PRIME-TECH,2846,Credit Card
+TXN10365,06-03-2025, Revenue, Rent,Service charge,1616,2144,528,Operations,PRIME-TECH,3488,Credit Card
+TXN10366,02-12-2024,Assets,Marketing,Monthly payment,1511,9753,8242,Finance,ASCEND,2581,Credit Card
+TXN10367,30-04-2023, Revenue,Taxes,Invoice payment,2264,9525,7261,HR,SCEPTER,3907,Bank Transfer
+TXN10368,04-10-2024, Liabilities,Miscellaneous,Service charge,1527,8047,6520,Finance,PRIME-TECH,3993,Bank Transfer
+TXN10369,16-09-2023, Liabilities,Loans,Monthly payment,4775,7096,2321,Operations,PRIME-TECH,2325,Credit Card
+TXN10370,05-02-2025, Expenses,Marketing,Loan repayment,4707,4096,-611,Finance,ASCEND,2578,Credit Card
+TXN10371,01-10-2024, Revenue,Payroll,Monthly payment,2066,3373,1307,Operations,PRIME-TECH,3738,Bank Transfer
+TXN10372,09-01-2024, Revenue,Utilities,Loan repayment,1999,3889,1890,Finance,GOOGLE,3783,Credit Card
+TXN10373,04-02-2024, Expenses, Rent,Invoice payment,4024,2866,-1158,HR,ASCEND,3353,Credit Card
+TXN10374,14-09-2023, Liabilities,Miscellaneous,Invoice payment,3278,4921,1643,Operations,PRIME-TECH,2536,Cash
+TXN10375,13-09-2023, Revenue, Rent,Monthly payment,2530,3639,1109,Operations,GOOGLE,3875,Cash
+TXN10376,27-06-2023,Assets,Miscellaneous,Invoice payment,4269,3544,-725,Sales,ASCEND,2132,Bank Transfer
+TXN10377,02-09-2024,Assets,Miscellaneous,Service charge,4968,4811,-157,HR,ASCEND,2373,Cash
+TXN10378,25-04-2024,Assets,Taxes,Monthly payment,4723,7212,2489,Sales,PRIME-TECH,2656,Bank Transfer
+TXN10379,02-02-2024, Expenses,Miscellaneous,Loan repayment,3813,6402,2589,Operations,GOOGLE,3477,Credit Card
+TXN10380,20-03-2025,Assets,Taxes,Invoice payment,2836,9507,6671,Finance,SCEPTER,2072,Cash
+TXN10381,05-04-2023, Revenue, Rent,Invoice payment,624,4914,4290,Operations,SCEPTER,3439,Bank Transfer
+TXN10382,08-09-2023,Assets,Utilities,Loan repayment,4264,2505,-1759,Operations,PRIME-TECH,2628,Bank Transfer
+TXN10383,15-06-2023, Expenses,Miscellaneous,Invoice payment,1409,8900,7491,Sales,GOOGLE,2445,Cash
+TXN10384,26-05-2024, Revenue,Payroll,Loan repayment,2299,8781,6482,Operations,PRIME-TECH,2489,Bank Transfer
+TXN10385,18-03-2024, Liabilities,Utilities,Service charge,2531,9173,6642,Finance,ASCEND,2121,Credit Card
+TXN10386,26-10-2024,Assets,Utilities,Loan repayment,3293,8765,5472,Finance,PRIME-TECH,2872,Bank Transfer
+TXN10387,02-09-2023,Assets,Payroll,Monthly payment,1198,7419,6221,Finance,SCEPTER,2765,Bank Transfer
+TXN10388,13-02-2025, Expenses,Sales Revenue,Service charge,4264,9462,5198,Finance,SCEPTER,3335,Bank Transfer
+TXN10389,01-10-2023, Expenses,Utilities,Loan repayment,3402,5205,1803,HR,PRIME-TECH,2863,Credit Card
+TXN10390,30-04-2024,Assets,Payroll,Loan repayment,1288,5472,4184,HR,GOOGLE,2806,Cash
+TXN10391,18-08-2023, Revenue,Loans,Loan repayment,4141,9645,5504,Operations,SCEPTER,3431,Credit Card
+TXN10392,28-07-2023, Revenue,Marketing,Monthly payment,4775,3046,-1729,Finance,SCEPTER,3796,Cash
+TXN10393,23-05-2024, Revenue,Miscellaneous,Service charge,2405,2323,-82,Sales,GOOGLE,3955,Bank Transfer
+TXN10394,22-05-2024, Liabilities,Payroll,Monthly payment,409,3003,2594,Sales,GOOGLE,3958,Credit Card
+TXN10395,09-07-2023, Revenue,Sales Revenue,Monthly payment,3775,8015,4240,Finance,PRIME-TECH,2687,Bank Transfer
+TXN10396,10-11-2023, Revenue,Payroll,Loan repayment,4200,2826,-1374,Finance,GOOGLE,3246,Credit Card
+TXN10397,28-08-2024,Assets,Taxes,Service charge,4525,7166,2641,Operations,GOOGLE,3738,Cash
+TXN10398,30-12-2023,Assets,Taxes,Monthly payment,4293,2384,-1909,Finance,SCEPTER,3109,Bank Transfer
+TXN10399,29-04-2023, Liabilities,Marketing,Monthly payment,391,9664,9273,HR,SCEPTER,3983,Credit Card
+TXN10400,03-12-2023, Liabilities,Miscellaneous,Invoice payment,1246,8304,7058,Sales,SCEPTER,2567,Bank Transfer
+TXN10401,06-09-2024, Revenue,Loans,Service charge,2607,9832,7225,HR,SCEPTER,2409,Cash
+TXN10402,09-12-2024, Liabilities,Sales Revenue,Monthly payment,3466,3746,280,HR,GOOGLE,2971,Credit Card
+TXN10403,19-12-2023, Liabilities,Utilities,Service charge,388,2841,2453,HR,PRIME-TECH,3871,Bank Transfer
+TXN10404,16-07-2023, Liabilities,Taxes,Loan repayment,3113,3436,323,Sales,ASCEND,3703,Cash
+TXN10405,27-03-2024, Revenue,Payroll,Monthly payment,2631,4506,1875,Sales,SCEPTER,2563,Bank Transfer
+TXN10406,08-03-2024, Expenses,Sales Revenue,Service charge,3769,5315,1546,Finance,GOOGLE,2613,Cash
+TXN10407,15-08-2024, Revenue,Taxes,Service charge,546,3803,3257,HR,SCEPTER,3165,Bank Transfer
+TXN10408,31-08-2024, Liabilities,Marketing,Monthly payment,4420,5904,1484,HR,GOOGLE,2535,Credit Card
+TXN10409,25-10-2023, Liabilities,Payroll,Invoice payment,1519,8809,7290,Finance,SCEPTER,3523,Credit Card
+TXN10410,12-03-2024, Revenue,Marketing,Service charge,1858,9261,7403,Sales,PRIME-TECH,2222,Credit Card
+TXN10411,03-12-2024,Assets,Payroll,Monthly payment,3874,3418,-456,Finance,GOOGLE,3222,Bank Transfer
+TXN10412,30-12-2024, Revenue, Rent,Monthly payment,1085,5329,4244,Finance,SCEPTER,3031,Cash
+TXN10413,17-12-2023, Revenue,Payroll,Invoice payment,1834,8834,7000,HR,ASCEND,2370,Credit Card
+TXN10414,05-11-2023, Liabilities,Loans,Service charge,3238,9795,6557,Finance,GOOGLE,3697,Bank Transfer
+TXN10415,15-02-2025, Revenue,Payroll,Invoice payment,3469,5815,2346,Operations,ASCEND,2793,Cash
+TXN10416,02-07-2023, Expenses, Rent,Monthly payment,4331,6050,1719,Sales,GOOGLE,2644,Credit Card
+TXN10417,21-05-2024, Revenue,Marketing,Loan repayment,1352,9526,8174,HR,ASCEND,2410,Cash
+TXN10418,16-09-2023, Revenue,Marketing,Invoice payment,1658,4608,2950,Finance,SCEPTER,3835,Bank Transfer
+TXN10419,13-02-2025, Revenue,Miscellaneous,Monthly payment,1846,4215,2369,HR,PRIME-TECH,3765,Bank Transfer
+TXN10420,10-01-2024, Revenue,Payroll,Service charge,4267,6775,2508,HR,ASCEND,3143,Bank Transfer
+TXN10421,02-03-2025, Revenue,Loans,Monthly payment,2493,7908,5415,HR,GOOGLE,2751,Bank Transfer
+TXN10422,17-04-2023, Liabilities,Loans,Monthly payment,4391,8852,4461,Finance,PRIME-TECH,2660,Cash
+TXN10423,02-09-2024,Assets,Taxes,Service charge,3158,9278,6120,Finance,ASCEND,3900,Bank Transfer
+TXN10424,08-09-2023, Expenses,Loans,Invoice payment,1887,4811,2924,Operations,SCEPTER,2546,Cash
+TXN10425,10-12-2023,Assets,Utilities,Loan repayment,4134,3151,-983,Sales,SCEPTER,3319,Cash
+TXN10426,02-04-2024,Assets,Loans,Monthly payment,4712,2895,-1817,HR,GOOGLE,2388,Cash
+TXN10427,08-01-2024, Liabilities, Rent,Loan repayment,4476,2671,-1805,Sales,ASCEND,3681,Cash
+TXN10428,01-02-2025,Assets,Loans,Loan repayment,1937,9796,7859,Operations,SCEPTER,3069,Credit Card
+TXN10429,31-12-2024,Assets,Marketing,Monthly payment,3479,8747,5268,HR,GOOGLE,3482,Cash
+TXN10430,06-11-2023, Expenses,Sales Revenue,Service charge,3993,5774,1781,Sales,ASCEND,3537,Cash
+TXN10431,08-11-2023,Assets,Marketing,Service charge,420,2833,2413,Operations,SCEPTER,2375,Cash
+TXN10432,31-07-2024,Assets,Taxes,Loan repayment,3481,2386,-1095,Sales,PRIME-TECH,3022,Bank Transfer
+TXN10433,11-03-2024, Expenses,Miscellaneous,Service charge,1023,4330,3307,Finance,GOOGLE,2659,Cash
+TXN10434,12-10-2024,Assets,Miscellaneous,Invoice payment,2140,5258,3118,Finance,GOOGLE,3326,Credit Card
+TXN10435,26-04-2023, Expenses,Payroll,Loan repayment,3028,2509,-519,Operations,ASCEND,3288,Bank Transfer
+TXN10436,31-03-2025,Assets,Payroll,Invoice payment,1748,7556,5808,Finance,GOOGLE,3383,Bank Transfer
+TXN10437,26-12-2023, Expenses,Loans,Invoice payment,1532,9982,8450,Operations,PRIME-TECH,2754,Credit Card
+TXN10438,27-02-2025, Expenses,Loans,Loan repayment,3982,6979,2997,HR,GOOGLE,2425,Bank Transfer
+TXN10439,25-01-2025, Liabilities,Payroll,Loan repayment,4371,5230,859,Finance,GOOGLE,3054,Cash
+TXN10440,08-01-2025, Expenses,Marketing,Loan repayment,3392,3989,597,HR,SCEPTER,2264,Credit Card
+TXN10441,06-09-2023, Revenue,Miscellaneous,Loan repayment,4388,6868,2480,Operations,SCEPTER,3638,Cash
+TXN10442,12-06-2023,Assets,Utilities,Loan repayment,1408,2053,645,Sales,PRIME-TECH,2524,Bank Transfer
+TXN10443,19-12-2023, Revenue,Taxes,Service charge,585,4506,3921,HR,ASCEND,2848,Credit Card
+TXN10444,26-03-2024, Revenue,Sales Revenue,Monthly payment,4097,6043,1946,Sales,GOOGLE,2764,Credit Card
+TXN10445,12-12-2023, Expenses, Rent,Loan repayment,654,3614,2960,Finance,GOOGLE,3948,Cash
+TXN10446,26-03-2024, Revenue, Rent,Service charge,2076,5324,3248,HR,PRIME-TECH,3532,Cash
+TXN10447,27-03-2024, Liabilities,Sales Revenue,Service charge,1873,4793,2920,HR,SCEPTER,2658,Credit Card
+TXN10448,17-01-2024, Revenue,Miscellaneous,Service charge,4056,8122,4066,Finance,ASCEND,2701,Bank Transfer
+TXN10449,28-11-2023, Liabilities,Taxes,Monthly payment,4341,9214,4873,HR,ASCEND,2907,Cash
+TXN10450,30-06-2024, Liabilities,Payroll,Invoice payment,4916,3397,-1519,HR,ASCEND,3969,Bank Transfer
+TXN10451,02-07-2024, Liabilities,Payroll,Monthly payment,1374,2414,1040,Finance,GOOGLE,3841,Credit Card
+TXN10452,16-06-2023,Assets,Payroll,Service charge,1970,4401,2431,HR,ASCEND,3688,Bank Transfer
+TXN10453,03-03-2024, Revenue,Payroll,Service charge,1104,7252,6148,Finance,ASCEND,3684,Credit Card
+TXN10454,02-07-2024, Revenue,Loans,Monthly payment,1319,7141,5822,Sales,ASCEND,2962,Credit Card
+TXN10455,30-11-2023, Liabilities,Miscellaneous,Invoice payment,969,8472,7503,Sales,PRIME-TECH,2750,Credit Card
+TXN10456,07-06-2023,Assets, Rent,Monthly payment,1601,9025,7424,Operations,GOOGLE,3932,Credit Card
+TXN10457,21-04-2024, Liabilities, Rent,Service charge,674,3231,2557,Finance,ASCEND,2977,Credit Card
+TXN10458,26-06-2023, Revenue,Miscellaneous,Loan repayment,350,8958,8608,Operations,PRIME-TECH,2304,Cash
+TXN10459,28-05-2023, Revenue,Taxes,Monthly payment,2320,7996,5676,Finance,GOOGLE,3932,Credit Card
+TXN10460,17-09-2024, Liabilities,Payroll,Invoice payment,3364,8633,5269,Sales,SCEPTER,2555,Bank Transfer
+TXN10461,11-11-2023, Revenue,Payroll,Service charge,717,4180,3463,Finance,SCEPTER,2965,Cash
+TXN10462,06-07-2024, Expenses,Miscellaneous,Monthly payment,2042,9402,7360,Operations,SCEPTER,3341,Cash
+TXN10463,09-06-2023, Expenses,Miscellaneous,Service charge,756,3944,3188,Operations,ASCEND,3129,Bank Transfer
+TXN10464,22-04-2023,Assets, Rent,Monthly payment,4944,4655,-289,Sales,GOOGLE,3310,Cash
+TXN10465,25-02-2024,Assets,Loans,Loan repayment,4386,5505,1119,Operations,ASCEND,3467,Cash
+TXN10466,27-04-2024, Liabilities,Loans,Invoice payment,548,3329,2781,Finance,ASCEND,2989,Bank Transfer
+TXN10467,20-06-2023, Liabilities,Payroll,Monthly payment,994,6323,5329,Operations,PRIME-TECH,3810,Bank Transfer
+TXN10468,27-09-2023, Expenses,Payroll,Monthly payment,1507,4348,2841,HR,ASCEND,3437,Credit Card
+TXN10469,15-04-2024, Revenue,Loans,Service charge,3568,7431,3863,Finance,PRIME-TECH,3805,Credit Card
+TXN10470,22-10-2024, Expenses,Sales Revenue,Invoice payment,2919,9244,6325,Operations,PRIME-TECH,2510,Credit Card
+TXN10471,24-08-2024,Assets,Loans,Service charge,4172,9671,5499,Sales,PRIME-TECH,2216,Bank Transfer
+TXN10472,20-12-2024, Liabilities,Miscellaneous,Invoice payment,3788,4436,648,HR,PRIME-TECH,3990,Bank Transfer
+TXN10473,13-06-2023, Liabilities,Taxes,Invoice payment,1692,9193,7501,Finance,SCEPTER,3021,Cash
+TXN10474,14-04-2024, Expenses,Taxes,Service charge,1812,7710,5898,Finance,ASCEND,3521,Cash
+TXN10475,01-03-2025, Revenue,Taxes,Invoice payment,2390,6718,4328,Operations,SCEPTER,3095,Cash
+TXN10476,04-01-2024, Expenses,Loans,Invoice payment,3295,4324,1029,Finance,ASCEND,3027,Cash
+TXN10477,03-10-2024, Revenue, Rent,Monthly payment,4278,5395,1117,Sales,GOOGLE,2919,Cash
+TXN10478,29-08-2024, Revenue,Marketing,Invoice payment,2663,6449,3786,Operations,PRIME-TECH,3238,Bank Transfer
+TXN10479,01-02-2025, Expenses,Loans,Loan repayment,2095,7885,5790,Sales,SCEPTER,3537,Credit Card
+TXN10480,03-03-2024, Expenses,Sales Revenue,Service charge,4948,9846,4898,HR,GOOGLE,2683,Cash
+TXN10481,13-07-2023, Liabilities,Taxes,Monthly payment,2544,2314,-230,HR,GOOGLE,3555,Cash
+TXN10482,05-04-2023,Assets,Loans,Loan repayment,3092,8703,5611,Sales,ASCEND,3687,Bank Transfer
+TXN10483,10-09-2023, Revenue, Rent,Invoice payment,3721,6375,2654,HR,PRIME-TECH,3542,Credit Card
+TXN10484,09-03-2024, Expenses,Utilities,Loan repayment,3105,4802,1697,Operations,PRIME-TECH,2168,Bank Transfer
+TXN10485,21-10-2023, Liabilities,Marketing,Invoice payment,1131,5183,4052,Sales,PRIME-TECH,2917,Bank Transfer
+TXN10486,13-03-2025, Expenses, Rent,Service charge,4409,6362,1953,Sales,ASCEND,3482,Credit Card
+TXN10487,11-06-2024, Revenue,Payroll,Loan repayment,2804,3304,500,HR,ASCEND,3091,Bank Transfer
+TXN10488,16-11-2024, Liabilities,Payroll,Invoice payment,4388,8277,3889,HR,PRIME-TECH,3914,Credit Card
+TXN10489,02-07-2023,Assets,Sales Revenue,Monthly payment,4841,4544,-297,Finance,PRIME-TECH,2775,Credit Card
+TXN10490,20-07-2024, Liabilities,Sales Revenue,Monthly payment,1890,9550,7660,Sales,SCEPTER,3042,Bank Transfer
+TXN10491,14-12-2024, Revenue, Rent,Monthly payment,4111,9248,5137,HR,ASCEND,2555,Credit Card
+TXN10492,17-07-2023, Expenses,Utilities,Loan repayment,4326,9074,4748,Sales,SCEPTER,3370,Bank Transfer
+TXN10493,24-09-2024, Revenue,Taxes,Invoice payment,617,7451,6834,HR,PRIME-TECH,2140,Credit Card
+TXN10494,18-08-2023, Revenue,Miscellaneous,Loan repayment,2302,6218,3916,Operations,GOOGLE,2037,Credit Card
+TXN10495,21-12-2024,Assets,Miscellaneous,Invoice payment,2161,6692,4531,Operations,PRIME-TECH,3185,Cash
+TXN10496,23-10-2024,Assets,Marketing,Invoice payment,1589,8344,6755,Operations,GOOGLE,2009,Cash
+TXN10497,08-11-2023, Liabilities,Utilities,Service charge,1123,7113,5990,Sales,SCEPTER,3213,Cash
+TXN10498,12-02-2025, Expenses, Rent,Monthly payment,877,7351,6474,HR,ASCEND,2049,Bank Transfer
+TXN10499,22-11-2024, Expenses, Rent,Invoice payment,2549,3153,604,Finance,SCEPTER,3328,Credit Card
+TXN10500,18-03-2025, Expenses,Marketing,Invoice payment,2895,5105,2210,Operations,SCEPTER,3654,Credit Card
+TXN10501,29-10-2023, Expenses,Payroll,Invoice payment,1610,3769,2159,HR,ASCEND,3722,Cash
+TXN10502,26-12-2023, Revenue,Utilities,Invoice payment,1067,7416,6349,HR,PRIME-TECH,2261,Credit Card
+TXN10503,11-12-2024,Assets,Loans,Invoice payment,2174,3134,960,Sales,SCEPTER,3988,Bank Transfer
+TXN10504,14-07-2024, Revenue,Utilities,Loan repayment,1108,7065,5957,Finance,ASCEND,2517,Credit Card
+TXN10505,13-08-2023, Liabilities,Payroll,Service charge,1342,9996,8654,Finance,GOOGLE,2025,Bank Transfer
+TXN10506,10-04-2024, Revenue,Taxes,Invoice payment,4278,9045,4767,Finance,PRIME-TECH,2282,Bank Transfer
+TXN10507,09-04-2023, Expenses,Loans,Service charge,1970,7270,5300,Finance,PRIME-TECH,3821,Bank Transfer
+TXN10508,26-09-2023, Liabilities, Rent,Loan repayment,1882,9382,7500,Finance,SCEPTER,2904,Bank Transfer
+TXN10509,14-07-2024, Liabilities,Loans,Loan repayment,4914,4828,-86,Finance,ASCEND,2876,Bank Transfer
+TXN10510,08-01-2024, Expenses,Taxes,Loan repayment,1296,6897,5601,Operations,GOOGLE,2375,Credit Card
+TXN10511,21-07-2024,Assets,Sales Revenue,Service charge,2363,6932,4569,HR,SCEPTER,3264,Cash
+TXN10512,29-02-2024, Expenses,Loans,Loan repayment,1535,8807,7272,Sales,ASCEND,2045,Cash
+TXN10513,16-09-2023, Liabilities,Miscellaneous,Invoice payment,1002,7182,6180,Finance,SCEPTER,2763,Credit Card
+TXN10514,10-02-2025, Revenue,Utilities,Service charge,514,9332,8818,Sales,ASCEND,2858,Credit Card
+TXN10515,10-09-2024,Assets,Sales Revenue,Loan repayment,3309,8837,5528,HR,GOOGLE,2116,Credit Card
+TXN10516,03-09-2024,Assets,Sales Revenue,Loan repayment,1981,2086,105,Sales,GOOGLE,2266,Cash
+TXN10517,24-06-2024, Revenue,Payroll,Service charge,2377,8110,5733,Operations,ASCEND,2228,Bank Transfer
+TXN10518,10-05-2023, Revenue,Taxes,Loan repayment,1358,6944,5586,Sales,SCEPTER,3901,Bank Transfer
+TXN10519,12-07-2023,Assets,Marketing,Service charge,2077,5878,3801,Finance,PRIME-TECH,2361,Bank Transfer
+TXN10520,11-05-2024, Liabilities,Payroll,Monthly payment,1637,5322,3685,HR,PRIME-TECH,3869,Credit Card
+TXN10521,25-02-2024, Revenue,Loans,Loan repayment,2974,2740,-234,Finance,ASCEND,2646,Credit Card
+TXN10522,16-09-2023, Expenses, Rent,Invoice payment,3262,3203,-59,Sales,SCEPTER,3897,Bank Transfer
+TXN10523,15-10-2023,Assets,Payroll,Service charge,4578,5837,1259,Operations,SCEPTER,3376,Cash
+TXN10524,01-01-2025, Expenses,Marketing,Invoice payment,3380,2169,-1211,Sales,GOOGLE,2482,Cash
+TXN10525,18-10-2024, Liabilities,Marketing,Service charge,1237,5035,3798,Operations,ASCEND,3113,Bank Transfer
+TXN10526,21-08-2024, Revenue,Marketing,Invoice payment,1454,4990,3536,Sales,GOOGLE,3514,Bank Transfer
+TXN10527,29-11-2023, Revenue,Payroll,Service charge,2503,3010,507,Operations,PRIME-TECH,2312,Bank Transfer
+TXN10528,05-11-2023, Liabilities, Rent,Service charge,1186,4550,3364,Operations,GOOGLE,2350,Bank Transfer
+TXN10529,10-09-2023,Assets,Taxes,Invoice payment,3813,4476,663,Operations,SCEPTER,2689,Credit Card
+TXN10530,08-06-2024, Expenses,Loans,Monthly payment,1977,2727,750,Operations,PRIME-TECH,3933,Bank Transfer
+TXN10531,19-08-2024, Revenue,Taxes,Invoice payment,569,6308,5739,Sales,GOOGLE,3312,Credit Card
+TXN10532,05-07-2023,Assets,Taxes,Invoice payment,923,9648,8725,HR,PRIME-TECH,3859,Bank Transfer
+TXN10533,28-10-2023, Expenses,Utilities,Invoice payment,3126,9082,5956,Sales,ASCEND,2656,Bank Transfer
+TXN10534,19-12-2024, Liabilities, Rent,Loan repayment,3262,7393,4131,Sales,GOOGLE,3308,Cash
+TXN10535,15-05-2024, Revenue,Utilities,Monthly payment,4974,5314,340,HR,PRIME-TECH,2455,Credit Card
+TXN10536,21-06-2024, Expenses,Loans,Invoice payment,1950,7303,5353,HR,PRIME-TECH,2432,Cash
+TXN10537,13-05-2023, Expenses,Payroll,Service charge,679,7438,6759,Finance,ASCEND,2769,Cash
+TXN10538,12-03-2024, Expenses, Rent,Loan repayment,595,9842,9247,Operations,SCEPTER,2600,Bank Transfer
+TXN10539,21-09-2024, Liabilities,Sales Revenue,Loan repayment,4693,4135,-558,Finance,SCEPTER,2723,Credit Card
+TXN10540,22-12-2023, Revenue,Taxes,Loan repayment,2712,7812,5100,Finance,PRIME-TECH,3779,Cash
+TXN10541,30-01-2024, Revenue,Taxes,Service charge,664,5916,5252,Sales,PRIME-TECH,3821,Bank Transfer
+TXN10542,12-10-2024, Revenue,Marketing,Invoice payment,1975,3843,1868,Operations,SCEPTER,3251,Bank Transfer
+TXN10543,01-06-2024, Revenue,Sales Revenue,Service charge,1829,4235,2406,Finance,SCEPTER,2590,Cash
+TXN10544,25-02-2024, Expenses, Rent,Service charge,2142,7276,5134,Operations,ASCEND,3114,Credit Card
+TXN10545,20-01-2024, Expenses,Miscellaneous,Invoice payment,4741,2480,-2261,Sales,GOOGLE,3192,Cash
+TXN10546,03-09-2024, Liabilities,Utilities,Service charge,1955,4298,2343,Sales,PRIME-TECH,3653,Bank Transfer
+TXN10547,05-09-2023, Revenue,Sales Revenue,Monthly payment,4507,7617,3110,Finance,PRIME-TECH,3054,Credit Card
+TXN10548,21-03-2024, Expenses,Payroll,Invoice payment,3362,3351,-11,Finance,ASCEND,3845,Credit Card
+TXN10549,04-09-2024, Liabilities, Rent,Service charge,4691,6797,2106,HR,GOOGLE,2063,Bank Transfer
+TXN10550,05-02-2024, Liabilities,Utilities,Loan repayment,4308,6413,2105,Sales,GOOGLE,2422,Cash
+TXN10551,07-12-2024, Revenue,Taxes,Service charge,3498,8856,5358,Operations,ASCEND,2787,Bank Transfer
+TXN10552,17-05-2024,Assets,Loans,Invoice payment,4443,3840,-603,Finance,ASCEND,2553,Credit Card
+TXN10553,20-12-2023, Expenses,Taxes,Loan repayment,4797,3967,-830,Operations,PRIME-TECH,2114,Bank Transfer
+TXN10554,17-12-2024, Revenue, Rent,Invoice payment,1068,2796,1728,HR,SCEPTER,3082,Credit Card
+TXN10555,26-10-2023, Expenses,Payroll,Service charge,2058,6167,4109,Operations,SCEPTER,3843,Credit Card
+TXN10556,03-10-2023,Assets,Sales Revenue,Invoice payment,4043,8144,4101,HR,SCEPTER,3480,Cash
+TXN10557,24-02-2024,Assets,Taxes,Invoice payment,3710,2662,-1048,Operations,GOOGLE,3790,Cash
+TXN10558,04-02-2025, Revenue,Sales Revenue,Loan repayment,1526,9602,8076,HR,SCEPTER,3481,Credit Card
+TXN10559,13-11-2024, Expenses,Marketing,Service charge,3920,4748,828,Operations,SCEPTER,2777,Cash
+TXN10560,07-08-2023, Revenue,Payroll,Loan repayment,3580,8685,5105,Operations,GOOGLE,2257,Bank Transfer
+TXN10561,27-12-2024,Assets,Loans,Service charge,4562,6149,1587,Sales,SCEPTER,3841,Credit Card
+TXN10562,11-04-2023,Assets,Marketing,Monthly payment,1883,4851,2968,Operations,GOOGLE,2124,Bank Transfer
+TXN10563,16-02-2025, Expenses,Loans,Monthly payment,3748,3472,-276,Finance,SCEPTER,3293,Credit Card
+TXN10564,23-02-2024, Expenses,Taxes,Monthly payment,2281,2447,166,Operations,PRIME-TECH,2220,Credit Card
+TXN10565,04-11-2024, Liabilities,Utilities,Loan repayment,1680,5621,3941,Finance,PRIME-TECH,3044,Credit Card
+TXN10566,14-09-2024,Assets,Loans,Loan repayment,4389,4313,-76,HR,GOOGLE,3655,Credit Card
+TXN10567,21-10-2024, Revenue, Rent,Monthly payment,3101,8657,5556,Operations,PRIME-TECH,2333,Cash
+TXN10568,04-08-2024, Revenue,Payroll,Invoice payment,2931,4307,1376,Operations,GOOGLE,2405,Bank Transfer
+TXN10569,19-10-2024, Liabilities, Rent,Monthly payment,3092,7744,4652,HR,PRIME-TECH,2067,Cash
+TXN10570,10-06-2023, Revenue, Rent,Loan repayment,2585,7529,4944,Sales,SCEPTER,2371,Bank Transfer
+TXN10571,19-09-2024, Expenses,Taxes,Invoice payment,2425,6668,4243,Sales,SCEPTER,2218,Bank Transfer
+TXN10572,13-07-2024, Liabilities, Rent,Service charge,2842,3112,270,Operations,PRIME-TECH,3378,Credit Card
+TXN10573,29-11-2024, Liabilities,Payroll,Invoice payment,3700,7882,4182,Sales,SCEPTER,2092,Cash
+TXN10574,14-05-2023, Liabilities,Marketing,Invoice payment,4719,9459,4740,Finance,SCEPTER,2345,Bank Transfer
+TXN10575,04-05-2024, Revenue,Marketing,Monthly payment,4920,2444,-2476,Sales,ASCEND,3288,Bank Transfer
+TXN10576,21-12-2023, Liabilities,Marketing,Monthly payment,1749,3446,1697,Sales,ASCEND,2581,Cash
+TXN10577,08-05-2023, Expenses,Payroll,Service charge,1113,9342,8229,HR,GOOGLE,3738,Credit Card
+TXN10578,21-07-2023, Liabilities,Sales Revenue,Invoice payment,1838,4191,2353,HR,PRIME-TECH,3369,Bank Transfer
+TXN10579,10-03-2024, Expenses,Loans,Invoice payment,3361,6047,2686,Sales,SCEPTER,2960,Bank Transfer
+TXN10580,01-08-2023, Expenses,Loans,Invoice payment,2370,5674,3304,HR,ASCEND,2853,Credit Card
+TXN10581,08-02-2024, Liabilities,Marketing,Loan repayment,3027,8590,5563,Finance,PRIME-TECH,2373,Credit Card
+TXN10582,03-04-2023,Assets,Loans,Service charge,2947,7489,4542,HR,SCEPTER,3122,Cash
+TXN10583,03-12-2023, Expenses,Payroll,Loan repayment,1329,8986,7657,Finance,ASCEND,2793,Cash
+TXN10584,28-11-2024, Revenue,Taxes,Invoice payment,3218,6345,3127,Sales,ASCEND,2968,Credit Card
+TXN10585,14-06-2024, Expenses, Rent,Service charge,4398,4062,-336,Finance,GOOGLE,2754,Credit Card
+TXN10586,24-06-2023, Revenue,Marketing,Invoice payment,2607,6900,4293,HR,GOOGLE,3007,Cash
+TXN10587,15-08-2023,Assets, Rent,Service charge,733,2191,1458,Operations,PRIME-TECH,3074,Bank Transfer
+TXN10588,09-10-2024, Expenses,Payroll,Invoice payment,2539,8605,6066,Finance,SCEPTER,3817,Cash
+TXN10589,12-12-2023, Revenue,Marketing,Invoice payment,1265,3890,2625,Finance,SCEPTER,3429,Credit Card
+TXN10590,22-12-2024, Revenue,Loans,Service charge,1332,5891,4559,Operations,ASCEND,3549,Bank Transfer
+TXN10591,20-10-2023, Revenue,Loans,Monthly payment,704,3230,2526,Sales,PRIME-TECH,3137,Cash
+TXN10592,20-09-2024, Liabilities,Loans,Monthly payment,4795,2853,-1942,HR,GOOGLE,3201,Cash
+TXN10593,29-11-2024, Liabilities, Rent,Loan repayment,4293,4432,139,HR,SCEPTER,3966,Bank Transfer
+TXN10594,26-01-2025, Liabilities,Utilities,Invoice payment,1395,7589,6194,Sales,ASCEND,3210,Cash
+TXN10595,30-09-2023,Assets,Miscellaneous,Loan repayment,4237,9125,4888,HR,GOOGLE,3229,Credit Card
+TXN10596,06-04-2023, Revenue,Utilities,Loan repayment,2109,6312,4203,Operations,ASCEND,2786,Credit Card
+TXN10597,14-05-2023, Revenue,Sales Revenue,Loan repayment,2476,5151,2675,Sales,ASCEND,3911,Bank Transfer
+TXN10598,16-06-2024, Revenue,Miscellaneous,Invoice payment,385,9314,8929,Finance,ASCEND,3737,Cash
+TXN10599,21-02-2025,Assets,Marketing,Invoice payment,3748,4505,757,Finance,ASCEND,2247,Credit Card
+TXN10600,23-12-2023, Expenses,Miscellaneous,Invoice payment,2407,6438,4031,HR,SCEPTER,2941,Credit Card
+TXN10601,15-05-2023, Revenue,Taxes,Monthly payment,3058,6241,3183,Operations,GOOGLE,2959,Cash
+TXN10602,17-01-2024, Expenses,Marketing,Service charge,4740,5088,348,HR,SCEPTER,2176,Credit Card
+TXN10603,02-10-2024, Expenses,Utilities,Loan repayment,4652,7279,2627,Operations,PRIME-TECH,3729,Credit Card
+TXN10604,13-09-2023, Liabilities,Utilities,Monthly payment,3990,4702,712,Finance,GOOGLE,2220,Bank Transfer
+TXN10605,01-09-2024, Revenue,Loans,Monthly payment,3208,6790,3582,Operations,GOOGLE,3419,Credit Card
+TXN10606,09-05-2023, Revenue,Taxes,Invoice payment,1241,8580,7339,Sales,GOOGLE,2590,Bank Transfer
+TXN10607,21-03-2024,Assets,Utilities,Invoice payment,929,4486,3557,Operations,PRIME-TECH,2107,Bank Transfer
+TXN10608,18-04-2024,Assets,Loans,Service charge,4660,3202,-1458,Sales,SCEPTER,2506,Cash
+TXN10609,09-08-2023, Revenue, Rent,Service charge,504,6556,6052,HR,PRIME-TECH,3531,Bank Transfer
+TXN10610,19-11-2023, Liabilities, Rent,Service charge,1361,4117,2756,HR,ASCEND,3185,Credit Card
+TXN10611,20-06-2024, Expenses,Sales Revenue,Service charge,2095,4389,2294,Operations,PRIME-TECH,2061,Bank Transfer
+TXN10612,24-09-2024, Liabilities,Marketing,Invoice payment,534,3906,3372,Operations,SCEPTER,2124,Bank Transfer
+TXN10613,13-10-2024, Revenue,Marketing,Invoice payment,4824,8087,3263,HR,ASCEND,3735,Bank Transfer
+TXN10614,02-07-2024, Revenue,Taxes,Service charge,374,6559,6185,Operations,ASCEND,3898,Cash
+TXN10615,12-03-2025, Expenses,Taxes,Invoice payment,3244,3870,626,Operations,PRIME-TECH,3708,Credit Card
+TXN10616,23-01-2025,Assets,Sales Revenue,Loan repayment,1428,3457,2029,Sales,ASCEND,3893,Bank Transfer
+TXN10617,27-05-2024,Assets,Marketing,Service charge,425,5211,4786,Sales,PRIME-TECH,3644,Credit Card
+TXN10618,18-07-2024,Assets,Payroll,Service charge,4400,2583,-1817,Finance,PRIME-TECH,3697,Bank Transfer
+TXN10619,05-12-2023, Expenses,Taxes,Monthly payment,4830,8435,3605,Finance,PRIME-TECH,3442,Cash
+TXN10620,17-04-2023, Expenses,Marketing,Invoice payment,2361,8440,6079,Operations,GOOGLE,3517,Cash
+TXN10621,19-10-2023, Revenue,Loans,Invoice payment,1056,6939,5883,Finance,GOOGLE,2716,Cash
+TXN10622,24-04-2024, Liabilities,Taxes,Service charge,4995,5019,24,HR,GOOGLE,3533,Credit Card
+TXN10623,29-04-2024,Assets,Miscellaneous,Invoice payment,1217,5432,4215,Finance,SCEPTER,3879,Bank Transfer
+TXN10624,17-12-2024, Revenue,Payroll,Service charge,562,6729,6167,HR,GOOGLE,2473,Credit Card
+TXN10625,01-02-2024, Liabilities,Loans,Invoice payment,1765,9509,7744,Sales,PRIME-TECH,2271,Credit Card
+TXN10626,20-01-2024, Expenses,Marketing,Loan repayment,3740,4458,718,HR,SCEPTER,2769,Bank Transfer
+TXN10627,26-01-2025, Expenses,Taxes,Service charge,865,4498,3633,Operations,ASCEND,3656,Bank Transfer
+TXN10628,01-02-2025, Expenses,Miscellaneous,Invoice payment,3664,7459,3795,Finance,GOOGLE,2275,Cash
+TXN10629,03-04-2024,Assets,Taxes,Invoice payment,4629,8669,4040,Finance,SCEPTER,2586,Cash
+TXN10630,26-10-2023, Revenue,Utilities,Monthly payment,4068,8056,3988,Operations,ASCEND,3543,Credit Card
+TXN10631,06-12-2023, Expenses, Rent,Loan repayment,4260,7874,3614,Finance,ASCEND,3576,Cash
+TXN10632,19-08-2023, Liabilities,Payroll,Monthly payment,3337,9477,6140,Finance,GOOGLE,2979,Credit Card
+TXN10633,29-02-2024,Assets,Sales Revenue,Invoice payment,824,3281,2457,Sales,PRIME-TECH,2520,Bank Transfer
+TXN10634,26-11-2024, Expenses,Sales Revenue,Monthly payment,1409,4529,3120,Finance,SCEPTER,2090,Cash
+TXN10635,31-10-2023, Liabilities,Utilities,Monthly payment,2318,7095,4777,Operations,PRIME-TECH,3807,Bank Transfer
+TXN10636,17-01-2025, Expenses,Taxes,Loan repayment,4453,2929,-1524,Finance,GOOGLE,2268,Cash
+TXN10637,03-04-2023,Assets,Utilities,Loan repayment,1705,5006,3301,HR,PRIME-TECH,2267,Bank Transfer
+TXN10638,30-05-2024, Revenue,Miscellaneous,Loan repayment,4144,4254,110,Operations,SCEPTER,2790,Cash
+TXN10639,05-09-2023, Liabilities,Miscellaneous,Loan repayment,4296,6992,2696,HR,SCEPTER,3798,Bank Transfer
+TXN10640,16-04-2023, Expenses,Sales Revenue,Service charge,629,8704,8075,Operations,ASCEND,3978,Cash
+TXN10641,23-07-2024, Expenses,Loans,Loan repayment,949,3211,2262,Operations,GOOGLE,2008,Credit Card
+TXN10642,25-04-2023,Assets,Payroll,Service charge,3003,9386,6383,Operations,PRIME-TECH,3078,Bank Transfer
+TXN10643,10-10-2023,Assets,Marketing,Monthly payment,2297,3859,1562,Finance,PRIME-TECH,2789,Credit Card
+TXN10644,16-08-2023,Assets,Marketing,Service charge,2192,2909,717,Sales,ASCEND,3265,Credit Card
+TXN10645,07-07-2023, Liabilities,Loans,Service charge,1170,5849,4679,HR,ASCEND,2926,Credit Card
+TXN10646,19-07-2024, Expenses,Payroll,Loan repayment,3926,9476,5550,Finance,PRIME-TECH,3256,Bank Transfer
+TXN10647,25-12-2024, Expenses,Payroll,Monthly payment,1271,5621,4350,Sales,ASCEND,3039,Bank Transfer
+TXN10648,24-09-2023,Assets,Taxes,Loan repayment,1606,4075,2469,HR,ASCEND,3523,Bank Transfer
+TXN10649,07-10-2023, Liabilities,Sales Revenue,Monthly payment,2147,9561,7414,HR,GOOGLE,2400,Bank Transfer
+TXN10650,30-01-2025, Expenses,Loans,Monthly payment,1813,2321,508,Finance,SCEPTER,3255,Credit Card
+TXN10651,27-07-2024, Revenue,Utilities,Monthly payment,1416,8222,6806,Finance,PRIME-TECH,2134,Cash
+TXN10652,30-07-2023, Expenses,Loans,Monthly payment,3386,6938,3552,Finance,GOOGLE,3685,Cash
+TXN10653,15-07-2023, Liabilities,Payroll,Service charge,473,6978,6505,HR,ASCEND,3914,Credit Card
+TXN10654,01-09-2023, Liabilities,Miscellaneous,Service charge,2553,6231,3678,Finance,ASCEND,2404,Credit Card
+TXN10655,27-06-2023, Liabilities,Sales Revenue,Invoice payment,4072,3352,-720,Sales,GOOGLE,2884,Cash
+TXN10656,22-04-2023, Revenue,Loans,Invoice payment,1288,9986,8698,HR,SCEPTER,2300,Credit Card
+TXN10657,19-04-2024, Revenue,Taxes,Invoice payment,373,2388,2015,Finance,ASCEND,2848,Cash
+TXN10658,09-05-2023, Expenses,Miscellaneous,Service charge,2892,2483,-409,Finance,ASCEND,3949,Cash
+TXN10659,18-10-2023, Revenue,Sales Revenue,Monthly payment,2751,8833,6082,Operations,ASCEND,3015,Credit Card
+TXN10660,09-06-2023, Expenses,Marketing,Service charge,4897,8406,3509,HR,SCEPTER,2405,Credit Card
+TXN10661,15-05-2024,Assets,Miscellaneous,Loan repayment,1960,9961,8001,Finance,ASCEND,3963,Cash
+TXN10662,18-06-2023, Revenue,Marketing,Loan repayment,3949,3302,-647,Operations,GOOGLE,2926,Credit Card
+TXN10663,09-08-2023, Revenue,Sales Revenue,Loan repayment,3572,5898,2326,HR,PRIME-TECH,2858,Bank Transfer
+TXN10664,27-05-2024, Expenses,Marketing,Loan repayment,3846,7382,3536,HR,GOOGLE,3955,Credit Card
+TXN10665,31-12-2024,Assets,Payroll,Loan repayment,4573,7761,3188,Finance,ASCEND,2948,Cash
+TXN10666,06-01-2025, Revenue,Marketing,Service charge,3573,5433,1860,Operations,PRIME-TECH,3832,Credit Card
+TXN10667,21-10-2024, Liabilities,Utilities,Monthly payment,1569,5014,3445,Operations,PRIME-TECH,3491,Bank Transfer
+TXN10668,25-04-2024,Assets,Miscellaneous,Invoice payment,4637,4933,296,Sales,SCEPTER,3221,Cash
+TXN10669,25-05-2023, Revenue,Payroll,Service charge,2079,7691,5612,Operations,PRIME-TECH,3824,Cash
+TXN10670,19-01-2024, Revenue,Marketing,Monthly payment,2719,3213,494,HR,ASCEND,2249,Cash
+TXN10671,16-02-2024, Liabilities,Loans,Service charge,1820,8780,6960,Finance,PRIME-TECH,2185,Bank Transfer
+TXN10672,21-10-2023, Expenses,Payroll,Monthly payment,4613,4378,-235,Operations,ASCEND,3659,Credit Card
+TXN10673,20-05-2024, Expenses,Utilities,Loan repayment,3789,6043,2254,Operations,GOOGLE,3475,Cash
+TXN10674,15-09-2023, Revenue,Utilities,Invoice payment,1931,3487,1556,Sales,SCEPTER,3016,Credit Card
+TXN10675,29-10-2023, Expenses,Marketing,Invoice payment,1789,6242,4453,Sales,GOOGLE,2773,Bank Transfer
+TXN10676,20-04-2024, Expenses,Marketing,Invoice payment,1984,9789,7805,HR,SCEPTER,3145,Credit Card
+TXN10677,23-04-2023, Liabilities,Miscellaneous,Service charge,3785,3337,-448,Finance,GOOGLE,2086,Bank Transfer
+TXN10678,22-11-2024, Liabilities,Taxes,Invoice payment,1032,9697,8665,Operations,PRIME-TECH,2637,Cash
+TXN10679,01-02-2025,Assets,Sales Revenue,Monthly payment,3745,2946,-799,HR,GOOGLE,3435,Bank Transfer
+TXN10680,18-10-2023,Assets,Sales Revenue,Monthly payment,554,7407,6853,Operations,ASCEND,2119,Bank Transfer
+TXN10681,23-09-2023, Revenue,Taxes,Loan repayment,2267,7828,5561,Operations,GOOGLE,2842,Bank Transfer
+TXN10682,01-06-2024, Revenue,Marketing,Service charge,3631,6010,2379,HR,GOOGLE,3598,Bank Transfer
+TXN10683,08-10-2024, Revenue,Miscellaneous,Invoice payment,3523,5284,1761,Operations,GOOGLE,3611,Cash
+TXN10684,13-04-2023,Assets,Marketing,Monthly payment,1069,5771,4702,HR,PRIME-TECH,2227,Cash
+TXN10685,29-08-2023,Assets,Sales Revenue,Service charge,498,5201,4703,Operations,ASCEND,2412,Credit Card
+TXN10686,02-01-2025, Liabilities,Utilities,Service charge,2139,9844,7705,HR,PRIME-TECH,3186,Credit Card
+TXN10687,27-11-2023, Liabilities,Utilities,Invoice payment,4216,7074,2858,Sales,ASCEND,3152,Bank Transfer
+TXN10688,09-01-2024,Assets, Rent,Service charge,3764,6599,2835,Sales,GOOGLE,2148,Cash
+TXN10689,28-09-2024, Expenses, Rent,Loan repayment,4450,6985,2535,Operations,GOOGLE,2232,Bank Transfer
+TXN10690,01-05-2023, Liabilities,Taxes,Loan repayment,3410,7776,4366,HR,SCEPTER,3405,Bank Transfer
+TXN10691,12-11-2023, Expenses,Loans,Invoice payment,3538,2907,-631,Sales,PRIME-TECH,3524,Cash
+TXN10692,17-09-2023, Expenses,Loans,Service charge,1111,8515,7404,Finance,PRIME-TECH,3280,Cash
+TXN10693,18-08-2024, Expenses,Sales Revenue,Monthly payment,2527,4734,2207,Sales,PRIME-TECH,3450,Credit Card
+TXN10694,04-08-2023, Expenses,Loans,Service charge,1996,7712,5716,HR,ASCEND,3009,Cash
+TXN10695,02-06-2024,Assets,Marketing,Monthly payment,4039,9420,5381,Operations,GOOGLE,3821,Cash
+TXN10696,28-06-2024, Revenue,Loans,Monthly payment,1557,2378,821,HR,GOOGLE,2885,Credit Card
+TXN10697,13-04-2024, Revenue,Marketing,Monthly payment,3135,7315,4180,Sales,GOOGLE,2325,Bank Transfer
+TXN10698,25-02-2025,Assets,Loans,Service charge,4633,5942,1309,HR,GOOGLE,3544,Bank Transfer
+TXN10699,22-07-2023, Liabilities,Marketing,Loan repayment,1487,3832,2345,Operations,SCEPTER,3670,Credit Card
+TXN10700,22-09-2023,Assets,Sales Revenue,Loan repayment,3614,5550,1936,Finance,GOOGLE,2633,Cash
+TXN10701,12-09-2023, Liabilities,Payroll,Service charge,2843,8743,5900,HR,ASCEND,3890,Bank Transfer
+TXN10702,19-07-2023,Assets,Marketing,Loan repayment,1202,3760,2558,HR,ASCEND,3187,Credit Card
+TXN10703,10-01-2025, Expenses,Utilities,Service charge,4678,4615,-63,HR,SCEPTER,3169,Cash
+TXN10704,13-04-2024,Assets,Sales Revenue,Invoice payment,4502,6833,2331,Sales,ASCEND,2527,Bank Transfer
+TXN10705,17-11-2024,Assets,Sales Revenue,Monthly payment,1742,7015,5273,HR,ASCEND,3851,Bank Transfer
+TXN10706,29-10-2024, Revenue,Utilities,Monthly payment,4530,7951,3421,HR,PRIME-TECH,3028,Cash
+TXN10707,06-06-2023, Revenue,Marketing,Invoice payment,1871,3119,1248,Sales,ASCEND,2865,Bank Transfer
+TXN10708,05-08-2024, Revenue,Taxes,Invoice payment,2640,6043,3403,Finance,SCEPTER,2658,Bank Transfer
+TXN10709,13-06-2024, Revenue,Miscellaneous,Service charge,1453,6117,4664,Operations,PRIME-TECH,2898,Bank Transfer
+TXN10710,16-04-2024, Expenses,Loans,Service charge,3612,8568,4956,HR,ASCEND,3296,Cash
+TXN10711,02-05-2024, Expenses,Miscellaneous,Monthly payment,1392,4012,2620,Operations,GOOGLE,2670,Credit Card
+TXN10712,03-02-2025,Assets,Marketing,Invoice payment,692,8630,7938,HR,ASCEND,2161,Bank Transfer
+TXN10713,26-11-2023,Assets,Miscellaneous,Loan repayment,1821,4004,2183,HR,SCEPTER,3543,Credit Card
+TXN10714,29-12-2024,Assets,Marketing,Loan repayment,4411,7882,3471,Sales,PRIME-TECH,3208,Cash
+TXN10715,30-08-2023,Assets,Loans,Invoice payment,680,3686,3006,HR,ASCEND,2920,Credit Card
+TXN10716,03-02-2024, Expenses,Marketing,Loan repayment,3245,4506,1261,Sales,GOOGLE,2241,Bank Transfer
+TXN10717,06-04-2024,Assets,Utilities,Loan repayment,3128,8149,5021,Sales,ASCEND,3756,Cash
+TXN10718,19-02-2025, Revenue, Rent,Service charge,939,6967,6028,Operations,GOOGLE,3264,Credit Card
+TXN10719,26-01-2025,Assets,Sales Revenue,Monthly payment,2298,8963,6665,Operations,ASCEND,3314,Bank Transfer
+TXN10720,04-08-2024,Assets,Miscellaneous,Invoice payment,4618,8208,3590,Operations,GOOGLE,2623,Credit Card
+TXN10721,02-07-2023, Liabilities, Rent,Monthly payment,2816,7259,4443,Sales,GOOGLE,3588,Bank Transfer
+TXN10722,26-08-2023, Expenses,Sales Revenue,Service charge,2522,4075,1553,HR,ASCEND,3361,Cash
+TXN10723,15-04-2023,Assets,Sales Revenue,Loan repayment,3717,8527,4810,Operations,GOOGLE,3268,Credit Card
+TXN10724,02-06-2024, Revenue,Payroll,Service charge,4233,2866,-1367,Sales,ASCEND,3207,Cash
+TXN10725,31-08-2023, Expenses,Sales Revenue,Invoice payment,3284,2333,-951,Finance,GOOGLE,2907,Bank Transfer
+TXN10726,13-10-2024, Expenses,Miscellaneous,Monthly payment,4367,3214,-1153,Sales,SCEPTER,2584,Cash
+TXN10727,17-03-2025, Liabilities,Miscellaneous,Monthly payment,2824,9491,6667,HR,GOOGLE,3112,Bank Transfer
+TXN10728,17-01-2025, Expenses,Taxes,Loan repayment,2849,9997,7148,Finance,GOOGLE,2018,Credit Card
+TXN10729,17-08-2023, Liabilities,Marketing,Monthly payment,2517,2573,56,Sales,PRIME-TECH,2661,Credit Card
+TXN10730,29-08-2024, Revenue,Marketing,Service charge,2853,6402,3549,HR,GOOGLE,2969,Cash
+TXN10731,27-02-2024,Assets, Rent,Invoice payment,1300,5762,4462,Sales,GOOGLE,2236,Cash
+TXN10732,19-08-2023, Expenses,Loans,Service charge,3040,7994,4954,Sales,ASCEND,2879,Cash
+TXN10733,10-02-2024, Revenue,Marketing,Monthly payment,4745,7957,3212,HR,ASCEND,2941,Bank Transfer
+TXN10734,07-08-2023, Expenses,Utilities,Invoice payment,4163,5483,1320,Operations,PRIME-TECH,2293,Credit Card
+TXN10735,01-04-2024, Expenses,Miscellaneous,Service charge,2318,4571,2253,HR,SCEPTER,2399,Bank Transfer
+TXN10736,24-02-2025, Liabilities,Utilities,Loan repayment,2990,6822,3832,Finance,SCEPTER,2258,Bank Transfer
+TXN10737,17-10-2024, Liabilities,Payroll,Loan repayment,2857,2101,-756,Sales,ASCEND,3240,Credit Card
+TXN10738,26-08-2023, Liabilities,Taxes,Service charge,2303,9766,7463,Sales,ASCEND,2687,Bank Transfer
+TXN10739,14-03-2024, Expenses, Rent,Monthly payment,3479,3439,-40,Finance,SCEPTER,3133,Credit Card
+TXN10740,11-06-2024, Revenue, Rent,Monthly payment,688,3586,2898,Sales,PRIME-TECH,2517,Credit Card
+TXN10741,13-06-2024, Expenses,Payroll,Monthly payment,2483,6526,4043,Finance,SCEPTER,3600,Bank Transfer
+TXN10742,03-12-2023, Expenses,Payroll,Service charge,4162,3474,-688,Finance,PRIME-TECH,2913,Credit Card
+TXN10743,07-07-2024, Liabilities,Utilities,Loan repayment,2954,6902,3948,Finance,PRIME-TECH,3414,Bank Transfer
+TXN10744,23-07-2023, Liabilities,Payroll,Invoice payment,3579,9545,5966,Operations,SCEPTER,2103,Credit Card
+TXN10745,09-08-2024, Liabilities,Loans,Service charge,3802,7126,3324,Operations,PRIME-TECH,3870,Bank Transfer
+TXN10746,22-03-2024, Revenue,Utilities,Monthly payment,1339,7748,6409,Finance,PRIME-TECH,3768,Bank Transfer
+TXN10747,22-07-2024, Expenses,Miscellaneous,Loan repayment,2514,3898,1384,Finance,ASCEND,2154,Bank Transfer
+TXN10748,18-01-2024,Assets,Payroll,Monthly payment,1574,9774,8200,Sales,ASCEND,3858,Credit Card
+TXN10749,14-02-2024, Liabilities,Payroll,Loan repayment,2445,7276,4831,HR,PRIME-TECH,2111,Bank Transfer
+TXN10750,28-07-2023, Expenses,Payroll,Invoice payment,2212,9784,7572,Sales,PRIME-TECH,3298,Cash
+TXN10751,06-07-2023,Assets,Marketing,Monthly payment,3158,6666,3508,HR,SCEPTER,3425,Bank Transfer
+TXN10752,26-10-2023,Assets,Payroll,Loan repayment,4348,7763,3415,Finance,PRIME-TECH,3755,Credit Card
+TXN10753,02-07-2023,Assets,Marketing,Loan repayment,4542,8690,4148,HR,ASCEND,2545,Credit Card
+TXN10754,02-08-2024, Expenses,Miscellaneous,Invoice payment,1273,3569,2296,HR,SCEPTER,2495,Cash
+TXN10755,13-04-2024,Assets,Loans,Monthly payment,988,4039,3051,Operations,GOOGLE,2320,Cash
+TXN10756,30-09-2023, Revenue,Sales Revenue,Loan repayment,956,8458,7502,HR,GOOGLE,2734,Credit Card
+TXN10757,18-06-2024,Assets, Rent,Invoice payment,1570,2866,1296,Sales,SCEPTER,2711,Bank Transfer
+TXN10758,05-10-2024, Revenue,Miscellaneous,Invoice payment,2556,3451,895,Finance,ASCEND,3624,Bank Transfer
+TXN10759,06-04-2024, Revenue,Marketing,Monthly payment,1139,5734,4595,Operations,PRIME-TECH,2862,Bank Transfer
+TXN10760,10-05-2023,Assets,Sales Revenue,Loan repayment,4177,9413,5236,HR,ASCEND,3090,Bank Transfer
+TXN10761,13-07-2024, Expenses,Sales Revenue,Monthly payment,4534,2505,-2029,Sales,PRIME-TECH,2390,Bank Transfer
+TXN10762,05-05-2023,Assets,Payroll,Loan repayment,2621,4046,1425,Operations,SCEPTER,3646,Bank Transfer
+TXN10763,10-07-2024,Assets, Rent,Invoice payment,4188,6613,2425,HR,GOOGLE,2118,Bank Transfer
+TXN10764,01-09-2024,Assets,Marketing,Monthly payment,1095,2120,1025,Operations,GOOGLE,3718,Bank Transfer
+TXN10765,18-07-2024,Assets,Taxes,Service charge,4761,5252,491,Operations,ASCEND,3840,Bank Transfer
+TXN10766,24-03-2024, Expenses, Rent,Loan repayment,4210,4718,508,Operations,GOOGLE,2875,Bank Transfer
+TXN10767,23-01-2025, Revenue, Rent,Monthly payment,1210,5490,4280,HR,ASCEND,3609,Credit Card
+TXN10768,23-11-2024, Liabilities,Taxes,Invoice payment,874,3173,2299,Sales,PRIME-TECH,3952,Credit Card
+TXN10769,14-01-2024, Revenue,Payroll,Service charge,3384,7316,3932,Finance,SCEPTER,2141,Bank Transfer
+TXN10770,07-05-2024, Expenses,Loans,Loan repayment,4587,6803,2216,Finance,SCEPTER,2848,Cash
+TXN10771,24-11-2024, Revenue,Marketing,Service charge,2741,8812,6071,HR,SCEPTER,3955,Cash
+TXN10772,06-05-2023, Expenses, Rent,Invoice payment,683,9635,8952,Operations,SCEPTER,2196,Cash
+TXN10773,10-05-2024, Liabilities,Sales Revenue,Service charge,3513,3195,-318,Sales,GOOGLE,2190,Credit Card
+TXN10774,18-11-2023, Liabilities,Payroll,Monthly payment,2414,6288,3874,Operations,PRIME-TECH,2771,Credit Card
+TXN10775,25-08-2023, Liabilities,Taxes,Loan repayment,2681,7948,5267,Operations,SCEPTER,2898,Bank Transfer
+TXN10776,22-01-2025, Liabilities, Rent,Service charge,2994,8770,5776,Sales,GOOGLE,2456,Credit Card
+TXN10777,29-11-2023, Revenue,Taxes,Monthly payment,2163,3891,1728,HR,GOOGLE,2770,Bank Transfer
+TXN10778,05-02-2024,Assets,Payroll,Monthly payment,364,2230,1866,Operations,PRIME-TECH,2167,Credit Card
+TXN10779,30-07-2024, Liabilities,Utilities,Invoice payment,4959,6411,1452,Finance,ASCEND,3759,Cash
+TXN10780,15-03-2024,Assets,Payroll,Invoice payment,1342,5468,4126,Operations,ASCEND,2287,Bank Transfer
+TXN10781,18-12-2023, Revenue,Payroll,Service charge,1659,6879,5220,Operations,GOOGLE,3512,Credit Card
+TXN10782,10-11-2024, Revenue,Taxes,Loan repayment,1116,7224,6108,Finance,ASCEND,3204,Credit Card
+TXN10783,25-03-2025,Assets,Marketing,Invoice payment,1532,6852,5320,Finance,ASCEND,2671,Credit Card
+TXN10784,23-07-2023, Revenue, Rent,Monthly payment,687,4367,3680,Finance,GOOGLE,3101,Cash
+TXN10785,23-12-2023, Revenue,Marketing,Invoice payment,3471,6583,3112,HR,PRIME-TECH,2846,Cash
+TXN10786,22-09-2024, Liabilities,Utilities,Service charge,1497,2845,1348,Operations,PRIME-TECH,2438,Cash
+TXN10787,05-12-2024, Liabilities,Marketing,Invoice payment,3709,9001,5292,HR,ASCEND,3412,Cash
+TXN10788,15-09-2023, Revenue,Taxes,Loan repayment,3650,6506,2856,Sales,PRIME-TECH,3277,Bank Transfer
+TXN10789,04-06-2024,Assets, Rent,Invoice payment,2360,4533,2173,HR,GOOGLE,2959,Cash
+TXN10790,15-04-2023, Revenue,Taxes,Loan repayment,1810,6563,4753,HR,ASCEND,3609,Credit Card
+TXN10791,30-09-2024,Assets,Payroll,Invoice payment,2264,8882,6618,Finance,GOOGLE,2653,Bank Transfer
+TXN10792,26-03-2024, Revenue,Marketing,Service charge,4144,9973,5829,Sales,GOOGLE,2326,Cash
+TXN10793,17-03-2024, Revenue,Taxes,Service charge,2813,6203,3390,Sales,ASCEND,2275,Cash
+TXN10794,30-10-2024,Assets,Taxes,Invoice payment,3881,3607,-274,Sales,PRIME-TECH,2403,Bank Transfer
+TXN10795,24-06-2023, Liabilities,Marketing,Service charge,3373,7530,4157,Operations,PRIME-TECH,2070,Cash
+TXN10796,24-08-2023, Revenue,Utilities,Loan repayment,4386,7498,3112,HR,PRIME-TECH,2400,Credit Card
+TXN10797,09-01-2025,Assets,Payroll,Monthly payment,4635,5007,372,Sales,PRIME-TECH,3790,Bank Transfer
+TXN10798,24-07-2023, Revenue,Payroll,Loan repayment,2114,9784,7670,Finance,GOOGLE,2661,Bank Transfer
+TXN10799,12-11-2023, Expenses, Rent,Monthly payment,1516,9179,7663,HR,ASCEND,3821,Bank Transfer
+TXN10800,19-04-2024, Expenses,Sales Revenue,Invoice payment,1693,3791,2098,Sales,ASCEND,2855,Bank Transfer
+TXN10801,07-10-2023, Revenue,Loans,Monthly payment,1645,3455,1810,Finance,PRIME-TECH,3495,Bank Transfer
+TXN10802,01-09-2023, Revenue,Sales Revenue,Invoice payment,1072,6137,5065,HR,GOOGLE,2710,Credit Card
+TXN10803,14-11-2024, Expenses,Marketing,Loan repayment,3005,9141,6136,Sales,GOOGLE,3601,Cash
+TXN10804,16-04-2024, Liabilities,Utilities,Service charge,4207,8994,4787,Operations,SCEPTER,2215,Credit Card
+TXN10805,31-10-2024,Assets,Loans,Loan repayment,4004,6964,2960,Sales,SCEPTER,2563,Bank Transfer
+TXN10806,15-12-2023, Revenue, Rent,Monthly payment,883,5304,4421,Operations,SCEPTER,3129,Cash
+TXN10807,14-06-2023, Expenses,Miscellaneous,Monthly payment,2238,3196,958,Sales,GOOGLE,3098,Credit Card
+TXN10808,09-04-2024, Revenue, Rent,Invoice payment,415,3280,2865,HR,ASCEND,2350,Credit Card
+TXN10809,04-09-2023, Revenue,Taxes,Service charge,1287,4413,3126,Operations,PRIME-TECH,2606,Bank Transfer
+TXN10810,13-09-2024, Revenue,Taxes,Loan repayment,4726,2358,-2368,Operations,GOOGLE,2010,Bank Transfer
+TXN10811,06-11-2023,Assets,Taxes,Monthly payment,1448,8179,6731,HR,GOOGLE,2312,Bank Transfer
+TXN10812,18-03-2025, Expenses,Payroll,Invoice payment,4394,5764,1370,HR,ASCEND,2702,Bank Transfer
+TXN10813,30-03-2025, Revenue,Miscellaneous,Loan repayment,2624,2943,319,Finance,ASCEND,2703,Bank Transfer
+TXN10814,13-11-2023,Assets,Payroll,Service charge,2953,7911,4958,Sales,PRIME-TECH,2411,Cash
+TXN10815,30-07-2023,Assets,Utilities,Monthly payment,500,8940,8440,Sales,SCEPTER,2121,Credit Card
+TXN10816,10-10-2023,Assets,Miscellaneous,Loan repayment,4782,7197,2415,Sales,PRIME-TECH,2750,Credit Card
+TXN10817,30-01-2025,Assets,Marketing,Invoice payment,3723,4434,711,Sales,GOOGLE,2140,Cash
+TXN10818,05-11-2023,Assets,Utilities,Service charge,1798,5278,3480,Operations,GOOGLE,3998,Cash
+TXN10819,13-08-2024, Revenue, Rent,Monthly payment,2569,5350,2781,Operations,SCEPTER,2053,Cash
+TXN10820,06-04-2023,Assets,Taxes,Monthly payment,1851,8105,6254,Sales,ASCEND,3653,Cash
+TXN10821,09-08-2023,Assets,Payroll,Monthly payment,2813,2327,-486,Operations,PRIME-TECH,3709,Credit Card
+TXN10822,10-02-2024, Expenses,Utilities,Invoice payment,3534,9748,6214,Finance,ASCEND,3140,Cash
+TXN10823,04-07-2023,Assets,Marketing,Service charge,1725,8066,6341,Finance,GOOGLE,2487,Bank Transfer
+TXN10824,23-07-2024,Assets,Miscellaneous,Invoice payment,3553,8138,4585,Operations,ASCEND,2670,Credit Card
+TXN10825,25-10-2023,Assets,Marketing,Service charge,800,8574,7774,Sales,GOOGLE,3520,Cash
+TXN10826,06-12-2024,Assets,Sales Revenue,Loan repayment,4817,9377,4560,HR,PRIME-TECH,2207,Bank Transfer
+TXN10827,03-04-2024, Revenue,Loans,Invoice payment,4326,6841,2515,Sales,GOOGLE,2912,Credit Card
+TXN10828,30-08-2024, Revenue,Utilities,Service charge,615,8421,7806,HR,PRIME-TECH,3952,Bank Transfer
+TXN10829,11-02-2025, Revenue,Loans,Service charge,4342,6570,2228,Sales,GOOGLE,3991,Bank Transfer
+TXN10830,12-11-2023, Revenue,Taxes,Invoice payment,3141,6384,3243,Finance,SCEPTER,3977,Bank Transfer
+TXN10831,10-09-2023, Revenue,Loans,Loan repayment,1769,3855,2086,HR,GOOGLE,3977,Credit Card
+TXN10832,07-05-2023, Liabilities,Taxes,Monthly payment,945,9340,8395,Finance,ASCEND,2149,Bank Transfer
+TXN10833,17-08-2024, Liabilities,Miscellaneous,Service charge,4925,6327,1402,HR,GOOGLE,3282,Cash
+TXN10834,16-02-2025, Liabilities,Payroll,Monthly payment,4882,6724,1842,Finance,ASCEND,3406,Bank Transfer
+TXN10835,23-08-2023,Assets,Utilities,Monthly payment,1313,8129,6816,Operations,ASCEND,3797,Bank Transfer
+TXN10836,06-12-2023, Revenue,Taxes,Invoice payment,4055,5308,1253,Sales,GOOGLE,2456,Bank Transfer
+TXN10837,03-10-2023, Liabilities,Taxes,Monthly payment,1399,8079,6680,HR,ASCEND,2568,Cash
+TXN10838,15-08-2024, Liabilities,Taxes,Monthly payment,838,6229,5391,Finance,SCEPTER,2647,Cash
+TXN10839,19-11-2024, Revenue,Marketing,Monthly payment,4783,9857,5074,HR,GOOGLE,3722,Bank Transfer
+TXN10840,16-02-2024, Expenses,Miscellaneous,Loan repayment,4373,7412,3039,Finance,ASCEND,3429,Bank Transfer
+TXN10841,05-08-2024,Assets,Miscellaneous,Monthly payment,569,3261,2692,Finance,ASCEND,3282,Bank Transfer
+TXN10842,12-06-2024, Liabilities,Miscellaneous,Service charge,3474,9729,6255,Operations,GOOGLE,2933,Credit Card
+TXN10843,22-11-2023, Expenses,Sales Revenue,Service charge,1992,8560,6568,HR,PRIME-TECH,3915,Bank Transfer
+TXN10844,24-03-2024, Liabilities,Taxes,Service charge,4897,3888,-1009,Operations,GOOGLE,3872,Credit Card
+TXN10845,06-12-2024, Expenses,Payroll,Service charge,3430,7165,3735,Operations,GOOGLE,3730,Cash
+TXN10846,18-08-2023,Assets,Loans,Service charge,1678,8285,6607,HR,SCEPTER,3712,Credit Card
+TXN10847,20-07-2023, Expenses,Payroll,Monthly payment,2517,2012,-505,Operations,SCEPTER,2172,Bank Transfer
+TXN10848,06-10-2024, Revenue,Marketing,Service charge,4142,5459,1317,Operations,SCEPTER,3792,Bank Transfer
+TXN10849,19-04-2024, Liabilities,Utilities,Invoice payment,1113,8791,7678,Finance,ASCEND,2899,Cash
+TXN10850,04-04-2023, Liabilities,Loans,Monthly payment,2605,3909,1304,HR,ASCEND,3992,Credit Card
+TXN10851,22-03-2024, Expenses,Loans,Invoice payment,1022,6509,5487,Operations,ASCEND,2201,Credit Card
+TXN10852,31-08-2024, Liabilities,Loans,Loan repayment,4760,2859,-1901,Sales,PRIME-TECH,2550,Cash
+TXN10853,01-07-2023, Liabilities,Utilities,Service charge,840,3875,3035,Operations,ASCEND,2347,Cash
+TXN10854,12-05-2024, Revenue,Payroll,Monthly payment,637,5131,4494,Sales,PRIME-TECH,3161,Bank Transfer
+TXN10855,04-09-2024,Assets,Sales Revenue,Invoice payment,3298,5582,2284,Operations,PRIME-TECH,3753,Credit Card
+TXN10856,28-10-2023, Expenses,Marketing,Invoice payment,4482,4627,145,HR,GOOGLE,2761,Bank Transfer
+TXN10857,13-03-2024, Revenue, Rent,Invoice payment,2702,6459,3757,HR,PRIME-TECH,3905,Cash
+TXN10858,18-09-2024, Liabilities, Rent,Service charge,4023,2632,-1391,HR,ASCEND,3503,Bank Transfer
+TXN10859,12-06-2024, Liabilities,Payroll,Loan repayment,4670,3222,-1448,Sales,ASCEND,2933,Credit Card
+TXN10860,14-09-2023, Liabilities,Sales Revenue,Service charge,910,9242,8332,Sales,PRIME-TECH,3078,Credit Card
+TXN10861,16-12-2023,Assets,Marketing,Monthly payment,3653,4376,723,HR,ASCEND,2062,Cash
+TXN10862,16-09-2024,Assets, Rent,Monthly payment,2217,6867,4650,Finance,SCEPTER,2304,Credit Card
+TXN10863,22-04-2024, Revenue,Sales Revenue,Service charge,2928,6307,3379,Finance,GOOGLE,3603,Cash
+TXN10864,04-01-2025, Expenses,Miscellaneous,Monthly payment,4085,6014,1929,Operations,ASCEND,3442,Credit Card
+TXN10865,25-12-2023,Assets, Rent,Invoice payment,783,6723,5940,Sales,ASCEND,2613,Bank Transfer
+TXN10866,23-11-2024, Liabilities,Taxes,Loan repayment,3697,2925,-772,Finance,PRIME-TECH,3699,Bank Transfer
+TXN10867,12-05-2024,Assets,Marketing,Loan repayment,3568,2477,-1091,Finance,GOOGLE,3065,Credit Card
+TXN10868,03-05-2023,Assets,Sales Revenue,Loan repayment,2793,2244,-549,Finance,ASCEND,3003,Bank Transfer
+TXN10869,11-01-2024, Liabilities,Loans,Loan repayment,3553,2849,-704,Sales,SCEPTER,2162,Bank Transfer
+TXN10870,19-09-2023, Expenses,Miscellaneous,Monthly payment,1868,5042,3174,Sales,ASCEND,2530,Cash
+TXN10871,01-07-2024,Assets,Loans,Loan repayment,1931,4599,2668,Finance,SCEPTER,3906,Bank Transfer
+TXN10872,19-12-2024,Assets,Taxes,Service charge,2055,9335,7280,Sales,ASCEND,3959,Credit Card
+TXN10873,03-01-2025, Revenue,Miscellaneous,Service charge,2637,9703,7066,Operations,GOOGLE,3230,Bank Transfer
+TXN10874,04-05-2023, Revenue,Loans,Monthly payment,578,9138,8560,Operations,PRIME-TECH,2387,Cash
+TXN10875,01-01-2024,Assets, Rent,Loan repayment,1441,6629,5188,HR,SCEPTER,2598,Credit Card
+TXN10876,30-06-2023, Revenue, Rent,Monthly payment,4660,5192,532,Sales,ASCEND,2834,Bank Transfer
+TXN10877,25-02-2024, Expenses,Taxes,Monthly payment,3551,7493,3942,HR,SCEPTER,3268,Cash
+TXN10878,09-02-2024,Assets,Loans,Service charge,1666,8011,6345,HR,SCEPTER,2896,Credit Card
+TXN10879,21-01-2025, Expenses,Marketing,Monthly payment,3779,9148,5369,Finance,SCEPTER,2891,Cash
+TXN10880,30-07-2023, Expenses, Rent,Monthly payment,3485,5482,1997,Operations,PRIME-TECH,3198,Bank Transfer
+TXN10881,21-05-2024, Revenue,Payroll,Invoice payment,4915,7106,2191,HR,SCEPTER,3766,Credit Card
+TXN10882,27-12-2023,Assets, Rent,Invoice payment,4207,8148,3941,Operations,GOOGLE,2486,Credit Card
+TXN10883,31-12-2023, Liabilities,Taxes,Monthly payment,1736,8575,6839,HR,PRIME-TECH,2878,Bank Transfer
+TXN10884,14-05-2024, Revenue,Taxes,Invoice payment,4679,4671,-8,Finance,GOOGLE,2831,Cash
+TXN10885,20-10-2023, Liabilities, Rent,Loan repayment,2412,7458,5046,Finance,SCEPTER,3032,Credit Card
+TXN10886,11-12-2024, Revenue,Marketing,Invoice payment,3264,9030,5766,Sales,GOOGLE,2238,Cash
+TXN10887,27-07-2023, Revenue,Marketing,Loan repayment,4005,4217,212,HR,SCEPTER,3911,Bank Transfer
+TXN10888,30-10-2023, Liabilities,Taxes,Loan repayment,1163,8572,7409,Operations,GOOGLE,3731,Cash
+TXN10889,23-04-2024, Expenses, Rent,Monthly payment,1860,9217,7357,Finance,SCEPTER,2068,Cash
+TXN10890,27-12-2023, Liabilities,Utilities,Loan repayment,4197,7545,3348,HR,PRIME-TECH,3049,Bank Transfer
+TXN10891,12-08-2024, Revenue,Taxes,Monthly payment,2074,9533,7459,Finance,GOOGLE,3538,Credit Card
+TXN10892,08-08-2023,Assets,Loans,Monthly payment,3032,6862,3830,Finance,SCEPTER,2683,Credit Card
+TXN10893,23-04-2023, Revenue,Loans,Service charge,1224,6644,5420,Operations,PRIME-TECH,2541,Bank Transfer
+TXN10894,20-04-2024, Revenue, Rent,Loan repayment,3327,8279,4952,Sales,GOOGLE,3583,Credit Card
+TXN10895,23-07-2023,Assets,Sales Revenue,Service charge,4419,8368,3949,Operations,PRIME-TECH,2842,Credit Card
+TXN10896,15-10-2024, Expenses,Sales Revenue,Invoice payment,1247,3145,1898,Finance,SCEPTER,2133,Cash
+TXN10897,14-02-2024,Assets,Payroll,Invoice payment,1971,5212,3241,HR,PRIME-TECH,2624,Bank Transfer
+TXN10898,14-01-2024, Revenue,Marketing,Monthly payment,1812,3225,1413,Operations,GOOGLE,2678,Credit Card
+TXN10899,09-04-2023, Expenses,Miscellaneous,Loan repayment,4107,2220,-1887,Operations,SCEPTER,2017,Credit Card
+TXN10900,03-01-2024,Assets,Loans,Monthly payment,2340,4119,1779,Finance,PRIME-TECH,2800,Bank Transfer
+TXN10901,26-05-2024, Liabilities,Utilities,Loan repayment,1105,3524,2419,Operations,PRIME-TECH,3705,Bank Transfer
+TXN10902,13-09-2024, Revenue,Marketing,Loan repayment,3878,6014,2136,Finance,GOOGLE,3531,Bank Transfer
+TXN10903,24-02-2024, Expenses, Rent,Invoice payment,2079,2185,106,Operations,GOOGLE,2538,Credit Card
+TXN10904,01-01-2025, Revenue, Rent,Monthly payment,2329,5661,3332,Finance,GOOGLE,3287,Cash
+TXN10905,29-10-2023, Revenue,Loans,Monthly payment,2766,3837,1071,Sales,PRIME-TECH,2364,Bank Transfer
+TXN10906,09-12-2023,Assets,Utilities,Service charge,3977,8842,4865,Finance,SCEPTER,3678,Credit Card
+TXN10907,24-11-2023, Revenue,Sales Revenue,Service charge,2062,5789,3727,Operations,SCEPTER,2973,Credit Card
+TXN10908,23-04-2024, Expenses,Taxes,Loan repayment,4643,2098,-2545,Sales,SCEPTER,3208,Credit Card
+TXN10909,07-10-2023, Revenue,Payroll,Monthly payment,1290,3189,1899,Sales,ASCEND,3928,Credit Card
+TXN10910,19-01-2024,Assets,Marketing,Invoice payment,963,2251,1288,Sales,SCEPTER,3627,Credit Card
+TXN10911,25-04-2023, Revenue,Taxes,Monthly payment,1579,3641,2062,HR,PRIME-TECH,3155,Credit Card
+TXN10912,12-04-2024, Revenue,Marketing,Loan repayment,2981,2280,-701,HR,ASCEND,2903,Cash
+TXN10913,05-02-2024, Expenses, Rent,Invoice payment,1851,5710,3859,Sales,GOOGLE,2778,Bank Transfer
+TXN10914,03-02-2025, Revenue,Payroll,Service charge,2108,5014,2906,Finance,SCEPTER,2056,Credit Card
+TXN10915,29-07-2024, Expenses,Miscellaneous,Loan repayment,1683,7547,5864,HR,PRIME-TECH,3402,Credit Card
+TXN10916,26-10-2024, Revenue,Taxes,Loan repayment,4334,9754,5420,HR,SCEPTER,3158,Credit Card
+TXN10917,16-01-2025,Assets,Marketing,Invoice payment,2297,2197,-100,Operations,SCEPTER,3254,Bank Transfer
+TXN10918,30-04-2024, Revenue,Marketing,Service charge,619,9511,8892,Operations,ASCEND,2095,Cash
+TXN10919,28-05-2023, Revenue,Miscellaneous,Service charge,1211,7790,6579,Operations,GOOGLE,3898,Bank Transfer
+TXN10920,20-05-2023, Revenue,Loans,Invoice payment,1211,3720,2509,Sales,GOOGLE,2659,Bank Transfer
+TXN10921,08-03-2024,Assets,Marketing,Service charge,1618,6583,4965,Operations,SCEPTER,3499,Credit Card
+TXN10922,28-09-2024, Expenses,Utilities,Service charge,4012,2963,-1049,Finance,ASCEND,2164,Bank Transfer
+TXN10923,15-10-2024, Expenses,Loans,Invoice payment,2921,3485,564,Sales,SCEPTER,3872,Bank Transfer
+TXN10924,12-12-2023, Liabilities,Marketing,Service charge,3321,8948,5627,Sales,ASCEND,3113,Cash
+TXN10925,10-08-2024, Liabilities,Utilities,Service charge,2211,6201,3990,Operations,PRIME-TECH,2999,Cash
+TXN10926,22-06-2024,Assets, Rent,Invoice payment,935,4939,4004,Sales,PRIME-TECH,2653,Cash
+TXN10927,30-09-2023, Revenue,Miscellaneous,Monthly payment,1002,6902,5900,Finance,PRIME-TECH,2725,Bank Transfer
+TXN10928,06-11-2023, Expenses,Loans,Monthly payment,1789,8530,6741,Operations,ASCEND,3343,Cash
+TXN10929,10-12-2024, Expenses,Utilities,Invoice payment,3541,9713,6172,HR,GOOGLE,3157,Credit Card
+TXN10930,11-08-2023, Expenses,Loans,Service charge,4646,5028,382,Sales,SCEPTER,3813,Credit Card
+TXN10931,29-08-2023, Expenses,Payroll,Invoice payment,4056,7254,3198,Operations,PRIME-TECH,3884,Credit Card
+TXN10932,31-03-2024, Revenue,Utilities,Invoice payment,4553,5916,1363,HR,GOOGLE,2621,Bank Transfer
+TXN10933,23-07-2023, Liabilities,Loans,Monthly payment,1197,5576,4379,Sales,ASCEND,2116,Cash
+TXN10934,10-06-2023, Expenses, Rent,Invoice payment,4807,5989,1182,HR,ASCEND,2543,Bank Transfer
+TXN10935,14-10-2023, Revenue,Payroll,Loan repayment,2958,7623,4665,HR,ASCEND,3994,Bank Transfer
+TXN10936,05-12-2023,Assets,Utilities,Loan repayment,3830,2929,-901,Sales,GOOGLE,3700,Cash
+TXN10937,24-02-2025, Expenses,Utilities,Loan repayment,4862,4416,-446,Finance,PRIME-TECH,3858,Cash
+TXN10938,13-06-2024, Revenue,Utilities,Loan repayment,3536,4939,1403,Sales,GOOGLE,3952,Cash
+TXN10939,07-03-2024, Expenses, Rent,Monthly payment,1943,2609,666,HR,ASCEND,3768,Bank Transfer
+TXN10940,31-12-2024, Expenses,Payroll,Loan repayment,2256,4632,2376,Finance,ASCEND,2773,Cash
+TXN10941,10-12-2023,Assets,Loans,Invoice payment,748,3689,2941,Sales,SCEPTER,3888,Cash
+TXN10942,10-04-2023, Expenses,Taxes,Invoice payment,2943,9084,6141,Finance,PRIME-TECH,3623,Credit Card
+TXN10943,19-03-2024,Assets,Utilities,Invoice payment,1299,8386,7087,HR,PRIME-TECH,2719,Cash
+TXN10944,07-04-2023, Revenue,Payroll,Service charge,1669,7672,6003,Operations,GOOGLE,3886,Credit Card
+TXN10945,07-01-2025, Revenue,Taxes,Loan repayment,1639,5693,4054,HR,ASCEND,2192,Bank Transfer
+TXN10946,14-05-2023, Liabilities,Taxes,Monthly payment,911,2958,2047,HR,PRIME-TECH,3472,Bank Transfer
+TXN10947,04-11-2023, Liabilities,Payroll,Loan repayment,1609,4803,3194,Finance,GOOGLE,2088,Cash
+TXN10948,20-06-2024, Liabilities,Loans,Monthly payment,2118,3778,1660,Finance,SCEPTER,3014,Cash
+TXN10949,13-07-2024, Liabilities,Miscellaneous,Service charge,389,7214,6825,Operations,ASCEND,2913,Bank Transfer
+TXN10950,26-04-2023, Expenses, Rent,Invoice payment,2224,8824,6600,HR,ASCEND,2585,Cash
+TXN10951,24-10-2023, Expenses,Utilities,Invoice payment,2083,8785,6702,Sales,SCEPTER,3705,Credit Card
+TXN10952,06-09-2024, Expenses,Sales Revenue,Monthly payment,2841,3138,297,Sales,PRIME-TECH,3181,Credit Card
+TXN10953,17-10-2024, Revenue,Utilities,Monthly payment,1757,2474,717,Finance,GOOGLE,3091,Bank Transfer
+TXN10954,07-03-2024,Assets,Sales Revenue,Monthly payment,1557,7560,6003,HR,GOOGLE,3866,Bank Transfer
+TXN10955,24-12-2023, Expenses, Rent,Loan repayment,929,5309,4380,HR,PRIME-TECH,3446,Credit Card
+TXN10956,31-10-2024,Assets,Payroll,Service charge,3520,7702,4182,HR,SCEPTER,3530,Bank Transfer
+TXN10957,11-04-2024, Liabilities,Miscellaneous,Invoice payment,2922,3382,460,HR,ASCEND,2832,Cash
+TXN10958,23-04-2024, Liabilities,Payroll,Service charge,1000,2247,1247,Sales,SCEPTER,3880,Cash
+TXN10959,24-11-2024,Assets,Miscellaneous,Loan repayment,2928,2808,-120,Sales,ASCEND,2697,Bank Transfer
+TXN10960,09-10-2024, Revenue,Loans,Invoice payment,3630,4059,429,HR,SCEPTER,2177,Bank Transfer
+TXN10961,22-09-2024,Assets,Payroll,Service charge,2125,3920,1795,HR,PRIME-TECH,2892,Credit Card
+TXN10962,19-06-2023, Liabilities,Loans,Service charge,4497,2848,-1649,Operations,PRIME-TECH,3835,Credit Card
+TXN10963,09-12-2024, Revenue,Miscellaneous,Monthly payment,3229,2746,-483,Finance,GOOGLE,2833,Bank Transfer
+TXN10964,30-10-2024,Assets, Rent,Loan repayment,1621,6456,4835,HR,SCEPTER,2519,Bank Transfer
+TXN10965,09-02-2025, Revenue,Sales Revenue,Loan repayment,712,6398,5686,Finance,GOOGLE,2808,Credit Card
+TXN10966,04-04-2023,Assets,Taxes,Service charge,3975,9459,5484,HR,GOOGLE,3381,Cash
+TXN10967,05-05-2023, Revenue,Marketing,Invoice payment,2843,9059,6216,Finance,GOOGLE,2029,Credit Card
+TXN10968,29-12-2023, Revenue,Payroll,Loan repayment,4719,8116,3397,Finance,ASCEND,2657,Cash
+TXN10969,30-03-2024,Assets,Payroll,Monthly payment,3703,4406,703,Operations,PRIME-TECH,3635,Bank Transfer
+TXN10970,29-11-2023,Assets,Marketing,Service charge,3794,6951,3157,Operations,ASCEND,2952,Cash
+TXN10971,13-08-2023,Assets,Sales Revenue,Invoice payment,3974,2394,-1580,Sales,PRIME-TECH,2806,Credit Card
+TXN10972,29-10-2024, Revenue,Sales Revenue,Loan repayment,4719,3395,-1324,HR,SCEPTER,3963,Credit Card
+TXN10973,15-02-2024, Expenses,Utilities,Monthly payment,2522,4545,2023,Operations,PRIME-TECH,3662,Cash
+TXN10974,03-06-2023, Revenue,Sales Revenue,Service charge,3147,6708,3561,Operations,ASCEND,3906,Cash
+TXN10975,10-02-2025,Assets,Sales Revenue,Loan repayment,1543,3840,2297,Finance,ASCEND,2441,Bank Transfer
+TXN10976,15-02-2025, Expenses,Miscellaneous,Loan repayment,355,6790,6435,Finance,SCEPTER,2699,Cash
+TXN10977,06-12-2024, Liabilities,Taxes,Loan repayment,2088,5265,3177,Sales,GOOGLE,2689,Cash
+TXN10978,17-12-2023, Expenses,Marketing,Loan repayment,817,5591,4774,Sales,SCEPTER,3859,Bank Transfer
+TXN10979,07-03-2025,Assets,Marketing,Service charge,2292,5174,2882,Operations,GOOGLE,2660,Bank Transfer
+TXN10980,31-03-2024, Revenue,Loans,Invoice payment,836,5419,4583,Sales,PRIME-TECH,3604,Cash
+TXN10981,27-12-2023, Liabilities, Rent,Loan repayment,2646,8406,5760,Finance,GOOGLE,2924,Cash
+TXN10982,22-09-2023, Expenses,Utilities,Service charge,2341,2399,58,HR,PRIME-TECH,2446,Credit Card
+TXN10983,24-09-2024, Expenses,Sales Revenue,Service charge,385,6660,6275,HR,SCEPTER,3634,Bank Transfer
+TXN10984,21-05-2023, Liabilities,Utilities,Monthly payment,612,7995,7383,Operations,SCEPTER,3552,Credit Card
+TXN10985,10-10-2024, Revenue,Loans,Invoice payment,2646,4885,2239,Sales,ASCEND,2378,Bank Transfer
+TXN10986,26-08-2023, Liabilities,Sales Revenue,Monthly payment,611,9835,9224,Finance,GOOGLE,2474,Bank Transfer
+TXN10987,20-06-2023, Revenue,Utilities,Monthly payment,1495,4055,2560,HR,PRIME-TECH,3577,Credit Card
+TXN10988,08-05-2024, Liabilities, Rent,Service charge,1968,6218,4250,Operations,SCEPTER,3019,Cash
+TXN10989,19-12-2023,Assets, Rent,Service charge,724,7004,6280,Sales,SCEPTER,2478,Credit Card
+TXN10990,02-08-2024,Assets,Loans,Invoice payment,3881,6717,2836,HR,ASCEND,2795,Bank Transfer
+TXN10991,22-05-2023, Liabilities,Utilities,Loan repayment,3774,8295,4521,Finance,SCEPTER,2996,Bank Transfer
+TXN10992,29-05-2024, Expenses,Utilities,Service charge,469,5305,4836,HR,GOOGLE,3392,Credit Card
+TXN10993,03-04-2024, Revenue,Miscellaneous,Service charge,2316,9425,7109,Finance,SCEPTER,3545,Bank Transfer
+TXN10994,20-05-2024, Expenses,Loans,Invoice payment,4366,3533,-833,Operations,PRIME-TECH,2051,Credit Card
+TXN10995,11-09-2024,Assets,Sales Revenue,Invoice payment,3609,2353,-1256,Sales,SCEPTER,3954,Cash
+TXN10996,21-06-2024, Expenses,Sales Revenue,Service charge,4160,9747,5587,HR,PRIME-TECH,2045,Bank Transfer
+TXN10997,27-10-2023, Revenue,Payroll,Loan repayment,4742,4830,88,Sales,SCEPTER,2766,Cash
+TXN10998,21-10-2023, Revenue,Sales Revenue,Service charge,3557,8849,5292,Operations,GOOGLE,2370,Credit Card
+TXN10999,31-08-2023, Expenses, Rent,Monthly payment,3017,8404,5387,HR,GOOGLE,2545,Credit Card
+TXN11000,02-05-2023, Expenses,Payroll,Invoice payment,3064,4466,1402,HR,ASCEND,3482,Bank Transfer
+TXN11001,14-07-2023, Expenses,Taxes,Invoice payment,1577,6352,4775,Finance,ASCEND,3861,Cash
+TXN11002,20-09-2024, Expenses,Miscellaneous,Service charge,842,2038,1196,HR,ASCEND,2221,Bank Transfer
+TXN11003,15-01-2025, Expenses,Sales Revenue,Invoice payment,4866,9503,4637,HR,ASCEND,3265,Cash
+TXN11004,21-09-2023, Revenue, Rent,Service charge,2967,2281,-686,Finance,GOOGLE,3499,Credit Card
+TXN11005,09-06-2024, Expenses,Marketing,Monthly payment,1152,7992,6840,Finance,SCEPTER,2054,Cash
+TXN11006,07-03-2025,Assets,Loans,Monthly payment,2893,6542,3649,Finance,GOOGLE,2200,Bank Transfer
+TXN11007,31-08-2024,Assets,Miscellaneous,Monthly payment,3332,5115,1783,Finance,SCEPTER,2363,Cash
+TXN11008,23-01-2024, Revenue, Rent,Loan repayment,1104,7695,6591,HR,SCEPTER,2535,Credit Card
+TXN11009,19-09-2024,Assets,Payroll,Loan repayment,460,6562,6102,HR,PRIME-TECH,3908,Bank Transfer
+TXN11010,15-08-2024,Assets,Miscellaneous,Loan repayment,775,2370,1595,Operations,GOOGLE,3128,Cash
+TXN11011,10-08-2023,Assets,Miscellaneous,Service charge,1216,8001,6785,HR,SCEPTER,2879,Credit Card
+TXN11012,30-10-2023, Revenue,Loans,Service charge,3197,7528,4331,Sales,SCEPTER,3817,Credit Card
+TXN11013,15-12-2023, Expenses, Rent,Invoice payment,1693,4014,2321,HR,SCEPTER,2744,Cash
+TXN11014,23-04-2024, Liabilities,Sales Revenue,Invoice payment,4992,4650,-342,Sales,SCEPTER,3221,Credit Card
+TXN11015,02-10-2024, Revenue,Taxes,Monthly payment,2174,4455,2281,Finance,PRIME-TECH,2501,Bank Transfer
+TXN11016,30-12-2024,Assets,Sales Revenue,Invoice payment,4511,7776,3265,Sales,PRIME-TECH,3330,Bank Transfer
+TXN11017,14-03-2024,Assets,Miscellaneous,Service charge,4829,8413,3584,Operations,ASCEND,2205,Bank Transfer
+TXN11018,12-03-2025, Revenue,Utilities,Monthly payment,1425,4497,3072,Sales,ASCEND,2408,Cash
+TXN11019,23-05-2023,Assets,Payroll,Invoice payment,1555,7243,5688,Sales,GOOGLE,3617,Credit Card
+TXN11020,07-02-2025, Revenue,Payroll,Loan repayment,2622,4715,2093,HR,PRIME-TECH,3916,Credit Card
+TXN11021,18-08-2024, Revenue, Rent,Service charge,4934,5983,1049,Finance,ASCEND,2397,Bank Transfer
+TXN11022,05-03-2024, Liabilities,Loans,Invoice payment,3942,5290,1348,Sales,SCEPTER,2846,Bank Transfer
+TXN11023,20-05-2023,Assets, Rent,Monthly payment,2823,6043,3220,Operations,ASCEND,2094,Bank Transfer
+TXN11024,23-02-2025, Liabilities,Miscellaneous,Loan repayment,4743,5801,1058,Sales,PRIME-TECH,3897,Credit Card
+TXN11025,08-05-2023, Expenses,Taxes,Loan repayment,2233,8013,5780,Operations,SCEPTER,3311,Bank Transfer
+TXN11026,08-08-2023,Assets,Marketing,Service charge,4889,4421,-468,Operations,PRIME-TECH,3859,Bank Transfer
+TXN11027,22-07-2024,Assets,Loans,Service charge,3579,5000,1421,HR,GOOGLE,3469,Credit Card
+TXN11028,17-05-2024, Liabilities,Taxes,Service charge,3001,2379,-622,HR,PRIME-TECH,2961,Credit Card
+TXN11029,18-02-2025, Liabilities,Utilities,Monthly payment,1114,8857,7743,Sales,SCEPTER,2613,Credit Card
+TXN11030,03-12-2024, Expenses, Rent,Service charge,4229,3146,-1083,Operations,PRIME-TECH,3429,Bank Transfer
+TXN11031,20-12-2023, Revenue,Loans,Loan repayment,3360,6924,3564,Sales,ASCEND,2781,Credit Card
+TXN11032,24-08-2024,Assets,Utilities,Monthly payment,1018,7749,6731,Sales,GOOGLE,3461,Bank Transfer
+TXN11033,21-03-2024, Liabilities,Utilities,Monthly payment,422,6257,5835,Sales,GOOGLE,3558,Credit Card
+TXN11034,02-07-2023,Assets, Rent,Service charge,2725,5332,2607,Operations,GOOGLE,2615,Cash
+TXN11035,03-11-2024, Revenue,Utilities,Monthly payment,3828,7153,3325,HR,ASCEND,3160,Cash
+TXN11036,09-07-2024, Liabilities,Sales Revenue,Monthly payment,4307,3879,-428,Finance,SCEPTER,2318,Cash
+TXN11037,28-02-2024, Expenses,Loans,Loan repayment,3208,6698,3490,Finance,SCEPTER,2140,Cash
+TXN11038,11-12-2024, Revenue, Rent,Invoice payment,1509,9399,7890,HR,PRIME-TECH,3950,Credit Card
+TXN11039,14-02-2025, Revenue,Taxes,Invoice payment,788,7551,6763,Operations,SCEPTER,3629,Bank Transfer
+TXN11040,11-02-2025,Assets,Sales Revenue,Service charge,2159,6991,4832,Sales,GOOGLE,2091,Cash
+TXN11041,19-04-2023,Assets,Miscellaneous,Monthly payment,1218,4216,2998,Operations,ASCEND,3850,Credit Card
+TXN11042,15-01-2025, Expenses,Payroll,Monthly payment,3144,3541,397,Sales,PRIME-TECH,2572,Cash
+TXN11043,29-06-2024,Assets,Payroll,Service charge,4282,6486,2204,Sales,ASCEND,3738,Cash
+TXN11044,04-07-2024,Assets,Marketing,Monthly payment,3936,2534,-1402,Finance,PRIME-TECH,2204,Cash
+TXN11045,10-11-2023, Revenue,Taxes,Invoice payment,718,7615,6897,Sales,GOOGLE,2890,Credit Card
+TXN11046,08-01-2025, Expenses,Payroll,Invoice payment,1868,6421,4553,Finance,GOOGLE,3671,Bank Transfer
+TXN11047,04-10-2023,Assets,Payroll,Service charge,3125,4952,1827,Sales,PRIME-TECH,3839,Credit Card
+TXN11048,12-11-2023, Liabilities,Marketing,Service charge,4797,7842,3045,Finance,SCEPTER,3259,Bank Transfer
+TXN11049,14-05-2024, Liabilities,Loans,Monthly payment,1599,4951,3352,Finance,SCEPTER,2798,Credit Card
+TXN11050,07-12-2023, Revenue,Loans,Monthly payment,800,4400,3600,Finance,ASCEND,2085,Credit Card
+TXN11051,05-01-2024, Liabilities, Rent,Loan repayment,3571,2648,-923,Sales,ASCEND,3186,Credit Card
+TXN11052,18-10-2024, Liabilities,Miscellaneous,Invoice payment,1241,9777,8536,Sales,GOOGLE,2784,Credit Card
+TXN11053,04-04-2023, Expenses,Loans,Service charge,3405,2802,-603,Finance,SCEPTER,2940,Bank Transfer
+TXN11054,18-04-2023, Expenses,Taxes,Loan repayment,4719,3085,-1634,Finance,PRIME-TECH,3445,Credit Card
+TXN11055,18-05-2023, Revenue, Rent,Service charge,2203,3347,1144,Operations,GOOGLE,3948,Cash
+TXN11056,23-05-2024, Revenue,Payroll,Monthly payment,1931,8076,6145,Finance,SCEPTER,2015,Bank Transfer
+TXN11057,28-06-2024, Revenue,Marketing,Loan repayment,951,4141,3190,Operations,GOOGLE,3711,Cash
+TXN11058,09-09-2024, Liabilities,Utilities,Service charge,3003,4665,1662,Finance,PRIME-TECH,2234,Cash
+TXN11059,21-05-2023, Liabilities,Marketing,Loan repayment,1165,9841,8676,HR,ASCEND,3757,Cash
+TXN11060,18-03-2024, Revenue,Marketing,Service charge,3647,6439,2792,Sales,GOOGLE,3641,Bank Transfer
+TXN11061,07-08-2024, Expenses,Miscellaneous,Service charge,585,2631,2046,Operations,PRIME-TECH,3357,Credit Card
+TXN11062,08-11-2024, Revenue, Rent,Monthly payment,4755,9043,4288,Operations,SCEPTER,3082,Credit Card
+TXN11063,26-05-2023,Assets,Payroll,Monthly payment,2544,9373,6829,Operations,GOOGLE,2448,Cash
+TXN11064,19-02-2024, Revenue,Loans,Loan repayment,4543,9628,5085,Sales,GOOGLE,3501,Bank Transfer
+TXN11065,17-03-2024,Assets,Miscellaneous,Service charge,2025,8642,6617,Finance,GOOGLE,2869,Credit Card
+TXN11066,09-10-2024, Expenses,Miscellaneous,Invoice payment,1605,7042,5437,Finance,ASCEND,3390,Cash
+TXN11067,28-03-2025, Liabilities,Taxes,Loan repayment,1730,9092,7362,Finance,SCEPTER,3902,Cash
+TXN11068,28-09-2024, Expenses,Marketing,Loan repayment,486,6920,6434,HR,GOOGLE,3818,Bank Transfer
+TXN11069,26-11-2023, Liabilities,Utilities,Invoice payment,2628,5511,2883,Finance,ASCEND,3862,Bank Transfer
+TXN11070,11-05-2023, Liabilities,Utilities,Service charge,2084,4746,2662,Finance,GOOGLE,2263,Credit Card
+TXN11071,06-06-2024, Liabilities,Loans,Service charge,1773,8534,6761,Sales,ASCEND,2797,Credit Card
+TXN11072,08-11-2023, Revenue,Payroll,Service charge,2983,8531,5548,Operations,SCEPTER,2016,Credit Card
+TXN11073,10-02-2024,Assets,Payroll,Loan repayment,1162,8919,7757,Sales,GOOGLE,2123,Cash
+TXN11074,26-05-2024, Liabilities,Utilities,Service charge,2865,6150,3285,Operations,SCEPTER,3999,Bank Transfer
+TXN11075,01-10-2023, Liabilities,Utilities,Monthly payment,675,9780,9105,HR,SCEPTER,2678,Cash
+TXN11076,15-10-2024,Assets,Miscellaneous,Loan repayment,1499,4392,2893,Sales,SCEPTER,2022,Bank Transfer
+TXN11077,31-07-2023,Assets, Rent,Loan repayment,3399,7340,3941,Sales,ASCEND,3711,Cash
+TXN11078,02-06-2023, Expenses,Utilities,Service charge,399,6886,6487,HR,GOOGLE,2886,Cash
+TXN11079,30-03-2025, Liabilities,Marketing,Service charge,3977,2732,-1245,Operations,ASCEND,2593,Credit Card
+TXN11080,26-02-2024,Assets,Sales Revenue,Service charge,3110,3232,122,Sales,GOOGLE,2554,Credit Card
+TXN11081,25-03-2025, Expenses,Payroll,Loan repayment,2629,9273,6644,Finance,PRIME-TECH,3287,Credit Card
+TXN11082,06-10-2024, Liabilities,Utilities,Service charge,4525,3334,-1191,Sales,ASCEND,2274,Credit Card
+TXN11083,04-12-2024, Revenue, Rent,Loan repayment,1573,5369,3796,Sales,ASCEND,3252,Credit Card
+TXN11084,10-11-2023,Assets,Taxes,Invoice payment,3480,6871,3391,Finance,PRIME-TECH,3375,Cash
+TXN11085,22-10-2024,Assets,Payroll,Monthly payment,2429,4742,2313,HR,SCEPTER,3397,Bank Transfer
+TXN11086,12-03-2024, Expenses,Sales Revenue,Service charge,3058,5984,2926,Sales,GOOGLE,3712,Credit Card
+TXN11087,08-12-2023, Revenue, Rent,Loan repayment,2792,8518,5726,Operations,PRIME-TECH,2253,Bank Transfer
+TXN11088,21-11-2024, Liabilities,Loans,Service charge,3958,9723,5765,Finance,PRIME-TECH,2855,Cash
+TXN11089,22-08-2023, Revenue,Payroll,Loan repayment,2050,7217,5167,Sales,ASCEND,2887,Cash
+TXN11090,17-07-2024, Expenses,Taxes,Loan repayment,4351,3333,-1018,Finance,GOOGLE,2861,Cash
+TXN11091,16-02-2024, Expenses,Utilities,Service charge,2540,9520,6980,Operations,SCEPTER,3189,Cash
+TXN11092,06-06-2024,Assets,Marketing,Service charge,2743,6566,3823,Operations,SCEPTER,2476,Bank Transfer
+TXN11093,17-01-2025,Assets,Miscellaneous,Monthly payment,2118,6207,4089,HR,SCEPTER,2705,Bank Transfer
+TXN11094,13-12-2024, Revenue,Taxes,Loan repayment,580,8056,7476,Operations,GOOGLE,3102,Credit Card
+TXN11095,23-07-2024, Liabilities,Taxes,Service charge,3699,4067,368,Finance,PRIME-TECH,3730,Bank Transfer
+TXN11096,05-06-2024,Assets,Utilities,Monthly payment,3169,6587,3418,Operations,PRIME-TECH,2906,Credit Card
+TXN11097,18-08-2023, Liabilities,Marketing,Monthly payment,1801,8353,6552,Finance,SCEPTER,3367,Cash
+TXN11098,08-09-2024,Assets,Utilities,Monthly payment,2123,2273,150,Operations,PRIME-TECH,3665,Bank Transfer
+TXN11099,11-03-2024, Revenue,Miscellaneous,Service charge,1357,8067,6710,Sales,ASCEND,3746,Credit Card
+TXN11100,20-11-2024, Expenses, Rent,Invoice payment,698,8691,7993,Sales,SCEPTER,2102,Cash
+TXN11101,14-12-2023,Assets,Payroll,Monthly payment,2760,5841,3081,Operations,PRIME-TECH,2763,Bank Transfer
+TXN11102,27-02-2024, Expenses,Marketing,Invoice payment,2973,4646,1673,Sales,GOOGLE,3804,Cash
+TXN11103,13-05-2024, Revenue,Taxes,Loan repayment,3908,7546,3638,Operations,PRIME-TECH,3006,Credit Card
+TXN11104,25-02-2024,Assets,Taxes,Invoice payment,3296,3884,588,Sales,SCEPTER,3034,Cash
+TXN11105,08-12-2023,Assets,Marketing,Invoice payment,3767,4329,562,HR,ASCEND,2829,Credit Card
+TXN11106,20-04-2024, Expenses,Loans,Service charge,2311,8777,6466,Operations,GOOGLE,3638,Credit Card
+TXN11107,02-08-2023,Assets,Payroll,Invoice payment,1953,9950,7997,Sales,ASCEND,2136,Cash
+TXN11108,13-08-2024, Revenue,Miscellaneous,Invoice payment,2342,6319,3977,HR,PRIME-TECH,3713,Bank Transfer
+TXN11109,01-03-2024, Liabilities,Payroll,Invoice payment,493,2704,2211,HR,PRIME-TECH,3836,Cash
+TXN11110,11-04-2024, Revenue,Marketing,Monthly payment,4169,8456,4287,Sales,SCEPTER,3403,Cash
+TXN11111,26-12-2023,Assets,Taxes,Service charge,2681,6455,3774,Finance,SCEPTER,3818,Credit Card
+TXN11112,06-04-2023,Assets,Miscellaneous,Loan repayment,3934,7868,3934,Finance,ASCEND,2404,Credit Card
+TXN11113,04-04-2024, Expenses,Loans,Loan repayment,2203,5478,3275,HR,GOOGLE,3717,Cash
+TXN11114,16-08-2023,Assets,Payroll,Invoice payment,4905,8033,3128,HR,PRIME-TECH,2899,Credit Card
+TXN11115,26-08-2023, Revenue,Marketing,Invoice payment,1362,6503,5141,Operations,ASCEND,3116,Credit Card
+TXN11116,28-01-2025,Assets,Marketing,Service charge,4525,7792,3267,Finance,SCEPTER,2802,Cash
+TXN11117,16-08-2023, Liabilities,Miscellaneous,Loan repayment,2139,2270,131,Sales,GOOGLE,3942,Cash
+TXN11118,15-12-2023, Expenses,Marketing,Service charge,1832,9750,7918,HR,GOOGLE,3252,Credit Card
+TXN11119,07-09-2024, Expenses,Sales Revenue,Service charge,4493,8608,4115,Finance,ASCEND,3224,Cash
+TXN11120,16-04-2024,Assets,Payroll,Service charge,1162,4583,3421,Operations,GOOGLE,3233,Cash
+TXN11121,01-07-2024, Expenses,Utilities,Monthly payment,1687,9732,8045,Operations,ASCEND,2390,Bank Transfer
+TXN11122,10-07-2023, Revenue, Rent,Service charge,1298,6839,5541,Finance,GOOGLE,3530,Cash
+TXN11123,20-12-2023, Expenses,Taxes,Invoice payment,4567,9982,5415,HR,PRIME-TECH,3140,Credit Card
+TXN11124,06-06-2023,Assets,Miscellaneous,Service charge,4244,5246,1002,HR,SCEPTER,3037,Cash
+TXN11125,03-06-2023, Liabilities,Sales Revenue,Monthly payment,1170,4507,3337,Finance,SCEPTER,3598,Credit Card
+TXN11126,28-03-2025, Liabilities, Rent,Loan repayment,2612,3098,486,Finance,SCEPTER,3493,Bank Transfer
+TXN11127,01-10-2024,Assets,Loans,Monthly payment,1319,6749,5430,Operations,ASCEND,2002,Bank Transfer
+TXN11128,29-09-2023, Expenses, Rent,Monthly payment,965,4021,3056,Sales,PRIME-TECH,3611,Cash
+TXN11129,14-02-2025,Assets, Rent,Loan repayment,2358,4929,2571,Finance,SCEPTER,2201,Cash
+TXN11130,14-02-2024, Liabilities,Marketing,Monthly payment,2627,2778,151,Sales,ASCEND,3397,Credit Card
+TXN11131,16-02-2025,Assets,Loans,Monthly payment,3026,4482,1456,Sales,PRIME-TECH,3035,Credit Card
+TXN11132,30-11-2023, Expenses,Sales Revenue,Loan repayment,2951,7643,4692,Sales,PRIME-TECH,3798,Bank Transfer
+TXN11133,12-04-2024, Revenue,Marketing,Monthly payment,762,2211,1449,Finance,PRIME-TECH,3459,Cash
+TXN11134,06-06-2024, Liabilities,Marketing,Invoice payment,439,6164,5725,HR,PRIME-TECH,2640,Bank Transfer
+TXN11135,05-12-2023, Revenue,Miscellaneous,Service charge,835,9822,8987,Finance,PRIME-TECH,2234,Bank Transfer
+TXN11136,10-10-2023, Revenue,Payroll,Monthly payment,2019,2378,359,Sales,ASCEND,3578,Bank Transfer
+TXN11137,11-05-2023, Expenses,Loans,Monthly payment,697,6877,6180,Operations,ASCEND,3040,Cash
+TXN11138,14-02-2025,Assets,Sales Revenue,Loan repayment,2534,7152,4618,Operations,PRIME-TECH,2585,Cash
+TXN11139,03-07-2024, Revenue, Rent,Loan repayment,1114,6799,5685,Operations,SCEPTER,2620,Credit Card
+TXN11140,23-01-2025, Liabilities,Miscellaneous,Service charge,4416,7294,2878,Sales,GOOGLE,3712,Cash
+TXN11141,09-05-2023, Expenses,Utilities,Service charge,2141,7487,5346,Sales,ASCEND,2403,Cash
+TXN11142,05-02-2025, Revenue,Loans,Invoice payment,1597,9848,8251,Finance,GOOGLE,3128,Credit Card
+TXN11143,12-10-2024, Liabilities,Loans,Service charge,4911,6047,1136,Finance,PRIME-TECH,2555,Credit Card
+TXN11144,16-04-2023, Liabilities, Rent,Service charge,409,3963,3554,Operations,SCEPTER,2411,Bank Transfer
+TXN11145,11-02-2024,Assets,Miscellaneous,Invoice payment,2450,8578,6128,HR,PRIME-TECH,2424,Bank Transfer
+TXN11146,25-03-2024, Revenue,Payroll,Monthly payment,657,6470,5813,Sales,PRIME-TECH,2331,Bank Transfer
+TXN11147,27-07-2024,Assets,Utilities,Invoice payment,4474,5785,1311,HR,PRIME-TECH,3226,Bank Transfer
+TXN11148,09-01-2025, Revenue,Loans,Invoice payment,650,6624,5974,Sales,ASCEND,2968,Credit Card
+TXN11149,24-08-2023, Liabilities,Sales Revenue,Loan repayment,837,8058,7221,Operations,ASCEND,2162,Cash
+TXN11150,13-05-2024, Liabilities,Marketing,Monthly payment,4484,2374,-2110,Finance,ASCEND,2465,Bank Transfer
+TXN11151,18-02-2025, Liabilities,Sales Revenue,Service charge,2760,4397,1637,Finance,PRIME-TECH,2466,Bank Transfer
+TXN11152,06-08-2024, Expenses,Marketing,Service charge,3993,9873,5880,HR,PRIME-TECH,3545,Cash
+TXN11153,19-12-2024, Liabilities,Miscellaneous,Invoice payment,4772,7918,3146,Sales,GOOGLE,2174,Bank Transfer
+TXN11154,09-03-2025, Revenue,Miscellaneous,Monthly payment,1948,4729,2781,HR,PRIME-TECH,2747,Bank Transfer
+TXN11155,20-06-2023,Assets,Miscellaneous,Monthly payment,4264,2511,-1753,Sales,GOOGLE,2202,Credit Card
+TXN11156,23-10-2024, Expenses,Utilities,Invoice payment,3825,5578,1753,Sales,PRIME-TECH,3684,Bank Transfer
+TXN11157,12-01-2024, Expenses,Payroll,Loan repayment,1904,2685,781,Finance,PRIME-TECH,2950,Bank Transfer
+TXN11158,23-10-2023, Liabilities,Utilities,Service charge,4841,3152,-1689,Operations,SCEPTER,2547,Cash
+TXN11159,13-11-2024, Expenses,Marketing,Monthly payment,4432,5282,850,Sales,SCEPTER,3300,Credit Card
+TXN11160,08-05-2024, Expenses,Miscellaneous,Monthly payment,2092,8240,6148,HR,SCEPTER,2821,Cash
+TXN11161,24-08-2023, Revenue,Miscellaneous,Service charge,354,9854,9500,HR,ASCEND,2531,Bank Transfer
+TXN11162,13-12-2024,Assets,Sales Revenue,Loan repayment,1916,4029,2113,Finance,GOOGLE,2219,Credit Card
+TXN11163,06-02-2025, Revenue,Utilities,Service charge,4483,3212,-1271,Operations,ASCEND,3224,Cash
+TXN11164,21-05-2024, Liabilities,Payroll,Loan repayment,3001,9177,6176,Sales,ASCEND,3436,Cash
+TXN11165,05-03-2025, Revenue,Utilities,Service charge,756,6819,6063,HR,GOOGLE,3909,Credit Card
+TXN11166,15-10-2023, Expenses,Sales Revenue,Loan repayment,3356,5491,2135,HR,ASCEND,3658,Credit Card
+TXN11167,08-07-2024, Expenses,Loans,Service charge,1045,3640,2595,HR,PRIME-TECH,2741,Cash
+TXN11168,17-03-2024, Liabilities,Sales Revenue,Loan repayment,4127,4099,-28,HR,SCEPTER,3878,Cash
+TXN11169,20-04-2023, Expenses,Marketing,Service charge,2168,2604,436,Sales,PRIME-TECH,3094,Bank Transfer
+TXN11170,15-09-2024, Expenses,Utilities,Service charge,3204,9530,6326,Operations,GOOGLE,2323,Bank Transfer
+TXN11171,30-10-2023, Expenses,Loans,Loan repayment,2307,5971,3664,Sales,ASCEND,2478,Cash
+TXN11172,11-06-2023, Expenses,Payroll,Monthly payment,4901,9868,4967,HR,PRIME-TECH,3389,Bank Transfer
+TXN11173,16-05-2024, Revenue,Marketing,Loan repayment,4549,7833,3284,HR,SCEPTER,2714,Bank Transfer
+TXN11174,13-07-2023, Liabilities,Loans,Loan repayment,784,9718,8934,Sales,SCEPTER,2186,Bank Transfer
+TXN11175,03-05-2024, Liabilities,Marketing,Loan repayment,3693,6572,2879,Sales,SCEPTER,3464,Credit Card
+TXN11176,10-03-2024,Assets, Rent,Loan repayment,4921,5287,366,Finance,ASCEND,3302,Credit Card
+TXN11177,30-04-2023, Expenses,Sales Revenue,Service charge,3368,7096,3728,Sales,ASCEND,2990,Cash
+TXN11178,30-08-2023, Liabilities,Miscellaneous,Loan repayment,1471,3928,2457,Operations,PRIME-TECH,2595,Cash
+TXN11179,04-06-2023, Expenses, Rent,Loan repayment,1764,3112,1348,Sales,PRIME-TECH,3602,Bank Transfer
+TXN11180,03-10-2024,Assets,Miscellaneous,Loan repayment,1338,4800,3462,Finance,SCEPTER,3318,Cash
+TXN11181,30-09-2023, Revenue,Utilities,Service charge,1047,9196,8149,Finance,PRIME-TECH,3811,Bank Transfer
+TXN11182,30-01-2025, Revenue, Rent,Invoice payment,1349,7654,6305,Sales,GOOGLE,3393,Cash
+TXN11183,03-01-2024,Assets,Payroll,Service charge,3732,5396,1664,Sales,SCEPTER,3830,Credit Card
+TXN11184,07-11-2024, Liabilities,Payroll,Invoice payment,4907,9582,4675,HR,GOOGLE,3080,Bank Transfer
+TXN11185,27-10-2023, Expenses, Rent,Monthly payment,1127,2397,1270,Sales,PRIME-TECH,3534,Bank Transfer
+TXN11186,15-03-2025, Liabilities,Sales Revenue,Service charge,1495,6298,4803,Sales,ASCEND,3489,Credit Card
+TXN11187,19-10-2023,Assets, Rent,Monthly payment,3837,9176,5339,Sales,GOOGLE,2412,Credit Card
+TXN11188,30-10-2023,Assets,Payroll,Invoice payment,2821,7658,4837,Sales,GOOGLE,3253,Credit Card
+TXN11189,08-11-2024, Revenue,Taxes,Invoice payment,4335,4083,-252,Finance,GOOGLE,3956,Cash
+TXN11190,12-02-2025, Expenses,Miscellaneous,Monthly payment,2599,8094,5495,Sales,PRIME-TECH,2830,Cash
+TXN11191,26-03-2025, Expenses,Payroll,Invoice payment,2493,8849,6356,HR,ASCEND,2997,Credit Card
+TXN11192,30-03-2025, Liabilities,Utilities,Service charge,4309,4426,117,Sales,SCEPTER,2314,Credit Card
+TXN11193,26-10-2023, Liabilities,Loans,Invoice payment,2459,6848,4389,Operations,PRIME-TECH,2495,Cash
+TXN11194,21-11-2024, Liabilities,Miscellaneous,Service charge,2393,7847,5454,Operations,ASCEND,2297,Bank Transfer
+TXN11195,28-06-2024, Expenses,Utilities,Invoice payment,2783,2613,-170,Operations,PRIME-TECH,3036,Cash
+TXN11196,04-03-2025, Expenses, Rent,Loan repayment,3397,2242,-1155,HR,ASCEND,3422,Cash
+TXN11197,04-08-2023, Liabilities,Taxes,Invoice payment,2877,4347,1470,HR,PRIME-TECH,3369,Cash
+TXN11198,20-12-2023,Assets, Rent,Service charge,4654,9017,4363,HR,ASCEND,3964,Bank Transfer
+TXN11199,06-01-2024, Liabilities,Loans,Invoice payment,1612,7310,5698,Finance,SCEPTER,2434,Credit Card
+TXN11200,08-04-2024, Revenue, Rent,Service charge,4977,6124,1147,Finance,GOOGLE,2285,Bank Transfer
+TXN11201,10-08-2024, Expenses, Rent,Invoice payment,4977,4052,-925,Operations,SCEPTER,2251,Bank Transfer
+TXN11202,13-01-2025, Liabilities, Rent,Monthly payment,909,9425,8516,Sales,ASCEND,2173,Bank Transfer
+TXN11203,27-09-2024, Expenses,Taxes,Service charge,1187,2971,1784,Sales,ASCEND,3981,Cash
+TXN11204,17-12-2023, Revenue, Rent,Service charge,743,9681,8938,Sales,SCEPTER,2242,Cash
+TXN11205,29-11-2023,Assets,Marketing,Loan repayment,815,2672,1857,Operations,PRIME-TECH,2049,Bank Transfer
+TXN11206,28-02-2024, Liabilities,Loans,Monthly payment,2893,8315,5422,Operations,PRIME-TECH,3939,Credit Card
+TXN11207,27-03-2025, Liabilities,Utilities,Loan repayment,3765,5225,1460,Sales,GOOGLE,3246,Cash
+TXN11208,26-12-2024, Revenue,Payroll,Invoice payment,3998,4852,854,HR,PRIME-TECH,2355,Credit Card
+TXN11209,01-07-2024, Expenses, Rent,Service charge,1842,2760,918,Operations,PRIME-TECH,2401,Bank Transfer
+TXN11210,10-10-2023, Liabilities,Loans,Service charge,3913,5781,1868,Sales,PRIME-TECH,3365,Bank Transfer
+TXN11211,13-10-2024, Liabilities,Taxes,Loan repayment,1729,4620,2891,Finance,GOOGLE,2731,Credit Card
+TXN11212,14-12-2023, Revenue,Loans,Loan repayment,1905,8109,6204,Finance,GOOGLE,3361,Cash
+TXN11213,20-07-2023,Assets,Miscellaneous,Monthly payment,4382,7519,3137,Finance,GOOGLE,2140,Bank Transfer
+TXN11214,27-10-2024, Expenses,Payroll,Invoice payment,2273,2362,89,Finance,GOOGLE,2341,Credit Card
+TXN11215,26-05-2023, Expenses, Rent,Loan repayment,835,2404,1569,Sales,GOOGLE,3751,Credit Card
+TXN11216,09-06-2024, Liabilities,Payroll,Invoice payment,1827,8717,6890,Finance,PRIME-TECH,2660,Credit Card
+TXN11217,09-04-2023, Expenses,Loans,Monthly payment,631,8236,7605,Finance,PRIME-TECH,2417,Cash
+TXN11218,07-02-2025, Liabilities, Rent,Monthly payment,744,7641,6897,HR,PRIME-TECH,2115,Cash
+TXN11219,31-12-2024,Assets, Rent,Loan repayment,792,5305,4513,Operations,GOOGLE,3868,Cash
+TXN11220,26-09-2023, Expenses,Payroll,Loan repayment,443,8956,8513,Finance,SCEPTER,3769,Cash
+TXN11221,15-02-2025, Expenses,Loans,Monthly payment,2867,7663,4796,Sales,ASCEND,2876,Bank Transfer
+TXN11222,02-12-2024,Assets,Utilities,Monthly payment,4080,8817,4737,Sales,SCEPTER,2340,Credit Card
+TXN11223,26-11-2023, Revenue,Utilities,Loan repayment,3928,8266,4338,Operations,SCEPTER,3455,Cash
+TXN11224,16-12-2024, Expenses,Payroll,Invoice payment,4528,8152,3624,HR,GOOGLE,3517,Cash
+TXN11225,26-10-2024, Expenses,Payroll,Service charge,4075,2579,-1496,Finance,SCEPTER,2132,Bank Transfer
+TXN11226,05-06-2023,Assets,Payroll,Invoice payment,796,4355,3559,Operations,ASCEND,2295,Credit Card
+TXN11227,02-05-2024,Assets,Loans,Invoice payment,3804,6811,3007,Finance,GOOGLE,2171,Bank Transfer
+TXN11228,08-04-2024, Revenue,Taxes,Loan repayment,3551,8760,5209,Finance,GOOGLE,2771,Credit Card
+TXN11229,02-08-2023, Expenses,Utilities,Invoice payment,3353,3910,557,Finance,ASCEND,2706,Bank Transfer
+TXN11230,21-09-2023, Liabilities,Utilities,Invoice payment,3407,9521,6114,Finance,SCEPTER,3574,Credit Card
+TXN11231,06-09-2023, Revenue,Utilities,Service charge,3411,3494,83,Finance,PRIME-TECH,3996,Bank Transfer
+TXN11232,10-11-2023, Liabilities,Sales Revenue,Service charge,1691,3052,1361,Operations,ASCEND,2638,Bank Transfer
+TXN11233,04-01-2025, Liabilities, Rent,Invoice payment,1782,3970,2188,Sales,SCEPTER,2693,Bank Transfer
+TXN11234,14-05-2024, Liabilities,Loans,Invoice payment,4088,5751,1663,HR,PRIME-TECH,3713,Bank Transfer
+TXN11235,19-04-2024, Expenses,Loans,Invoice payment,2153,3754,1601,Sales,ASCEND,2717,Credit Card
+TXN11236,23-03-2025, Revenue,Sales Revenue,Invoice payment,4546,2579,-1967,HR,PRIME-TECH,3436,Bank Transfer
+TXN11237,04-05-2023, Expenses,Marketing,Monthly payment,1439,6420,4981,HR,ASCEND,3065,Bank Transfer
+TXN11238,26-06-2024, Liabilities,Payroll,Loan repayment,4133,6250,2117,HR,GOOGLE,3314,Bank Transfer
+TXN11239,05-02-2025,Assets,Payroll,Monthly payment,1929,6346,4417,Sales,GOOGLE,2198,Bank Transfer
+TXN11240,19-07-2023, Revenue,Marketing,Monthly payment,370,8400,8030,HR,ASCEND,2038,Cash
+TXN11241,15-08-2023, Revenue,Marketing,Service charge,4584,9839,5255,Sales,PRIME-TECH,2371,Bank Transfer
+TXN11242,02-08-2024, Revenue,Payroll,Invoice payment,4890,6245,1355,Operations,GOOGLE,2201,Bank Transfer
+TXN11243,08-02-2024, Expenses,Loans,Invoice payment,1462,6024,4562,Operations,SCEPTER,2152,Bank Transfer
+TXN11244,04-06-2023, Revenue,Utilities,Loan repayment,2002,7734,5732,Finance,GOOGLE,3507,Credit Card
+TXN11245,28-02-2024, Expenses,Sales Revenue,Invoice payment,4445,3735,-710,Finance,GOOGLE,3420,Credit Card
+TXN11246,11-03-2024, Revenue,Utilities,Loan repayment,3564,5507,1943,HR,ASCEND,2578,Cash
+TXN11247,24-05-2023, Liabilities,Marketing,Monthly payment,2958,3349,391,HR,GOOGLE,3310,Credit Card
+TXN11248,16-07-2023, Liabilities,Utilities,Loan repayment,2621,5559,2938,Operations,PRIME-TECH,3358,Cash
+TXN11249,11-02-2024, Revenue,Taxes,Service charge,4565,4200,-365,Operations,SCEPTER,2119,Cash
+TXN11250,24-05-2023, Revenue,Loans,Invoice payment,4855,7743,2888,HR,ASCEND,2911,Cash
+TXN11251,24-04-2024,Assets,Marketing,Service charge,4501,3900,-601,Finance,GOOGLE,3219,Cash
+TXN11252,29-09-2023, Revenue,Utilities,Invoice payment,3198,8903,5705,Finance,GOOGLE,2415,Cash
+TXN11253,17-02-2024, Liabilities,Payroll,Service charge,2309,6679,4370,Finance,GOOGLE,3174,Credit Card
+TXN11254,10-04-2023, Revenue, Rent,Monthly payment,3003,9475,6472,HR,SCEPTER,3037,Bank Transfer
+TXN11255,22-07-2024,Assets,Sales Revenue,Loan repayment,2336,4692,2356,Finance,SCEPTER,3994,Credit Card
+TXN11256,25-01-2025, Revenue,Marketing,Loan repayment,3016,7017,4001,Finance,SCEPTER,3327,Credit Card
+TXN11257,09-06-2023, Liabilities,Miscellaneous,Monthly payment,2945,4900,1955,Sales,ASCEND,3644,Cash
+TXN11258,26-08-2024, Revenue,Payroll,Service charge,4218,9565,5347,HR,PRIME-TECH,3801,Bank Transfer
+TXN11259,15-06-2023, Revenue,Taxes,Monthly payment,3460,6931,3471,Operations,PRIME-TECH,3629,Credit Card
+TXN11260,11-01-2025, Revenue,Taxes,Service charge,2994,8887,5893,Sales,PRIME-TECH,3549,Bank Transfer
+TXN11261,14-04-2024, Liabilities,Payroll,Service charge,1844,2455,611,Operations,PRIME-TECH,2727,Credit Card
+TXN11262,29-01-2025, Revenue, Rent,Monthly payment,3684,3152,-532,HR,SCEPTER,2222,Credit Card
+TXN11263,17-04-2024, Expenses, Rent,Invoice payment,1911,5235,3324,Sales,PRIME-TECH,2597,Bank Transfer
+TXN11264,01-05-2023,Assets, Rent,Invoice payment,1968,8918,6950,Finance,SCEPTER,3293,Credit Card
+TXN11265,21-08-2023,Assets,Marketing,Monthly payment,2291,4788,2497,HR,PRIME-TECH,3939,Credit Card
+TXN11266,30-07-2023, Expenses,Payroll,Invoice payment,4209,5733,1524,Sales,SCEPTER,3045,Bank Transfer
+TXN11267,03-02-2025,Assets,Taxes,Monthly payment,4621,3964,-657,HR,PRIME-TECH,3291,Bank Transfer
+TXN11268,03-04-2024, Revenue,Payroll,Loan repayment,3494,7564,4070,Operations,GOOGLE,3874,Bank Transfer
+TXN11269,27-04-2023, Liabilities, Rent,Loan repayment,1838,4643,2805,Operations,PRIME-TECH,2371,Cash
+TXN11270,11-06-2024, Expenses,Marketing,Loan repayment,3286,7358,4072,Finance,ASCEND,2822,Bank Transfer
+TXN11271,15-06-2024,Assets,Loans,Loan repayment,4815,4695,-120,Sales,GOOGLE,2547,Cash
+TXN11272,17-09-2023, Expenses,Payroll,Monthly payment,3264,8920,5656,Finance,PRIME-TECH,3708,Credit Card
+TXN11273,24-10-2023, Liabilities,Loans,Monthly payment,4753,6680,1927,Operations,ASCEND,3654,Bank Transfer
+TXN11274,06-02-2024, Revenue,Loans,Loan repayment,3216,4876,1660,Operations,ASCEND,3523,Credit Card
+TXN11275,22-08-2023, Liabilities,Utilities,Invoice payment,2590,2889,299,HR,ASCEND,3462,Bank Transfer
+TXN11276,06-03-2025, Revenue,Utilities,Monthly payment,571,8802,8231,Operations,SCEPTER,2574,Credit Card
+TXN11277,23-06-2024, Revenue,Loans,Loan repayment,4335,4235,-100,Operations,ASCEND,2236,Credit Card
+TXN11278,06-06-2023,Assets,Utilities,Invoice payment,4545,6017,1472,Operations,GOOGLE,3809,Bank Transfer
+TXN11279,04-07-2024, Expenses,Marketing,Monthly payment,1301,9897,8596,HR,PRIME-TECH,2438,Cash
+TXN11280,28-08-2024, Expenses, Rent,Monthly payment,4838,9072,4234,Finance,SCEPTER,2237,Bank Transfer
+TXN11281,23-10-2023, Liabilities,Utilities,Monthly payment,2449,4720,2271,Finance,PRIME-TECH,2125,Cash
+TXN11282,29-03-2024, Revenue,Miscellaneous,Service charge,3799,2901,-898,Operations,SCEPTER,2963,Cash
+TXN11283,14-01-2025, Liabilities,Payroll,Monthly payment,1298,6404,5106,Finance,SCEPTER,2793,Credit Card
+TXN11284,03-11-2024, Liabilities,Sales Revenue,Service charge,3688,7664,3976,Sales,GOOGLE,3924,Bank Transfer
+TXN11285,16-08-2024,Assets,Loans,Monthly payment,3540,3932,392,Operations,GOOGLE,3672,Cash
+TXN11286,03-10-2024,Assets,Loans,Monthly payment,1564,9733,8169,HR,PRIME-TECH,3003,Credit Card
+TXN11287,02-11-2024, Liabilities,Taxes,Invoice payment,2789,3285,496,Operations,PRIME-TECH,2278,Cash
+TXN11288,05-02-2025, Revenue,Utilities,Monthly payment,2204,3512,1308,Operations,SCEPTER,3437,Credit Card
+TXN11289,10-07-2024, Expenses,Taxes,Service charge,375,2128,1753,Operations,ASCEND,2636,Cash
+TXN11290,14-09-2024, Revenue,Taxes,Invoice payment,1783,9866,8083,Operations,SCEPTER,2405,Credit Card
+TXN11291,28-06-2023, Liabilities,Marketing,Loan repayment,4886,8405,3519,Finance,ASCEND,2502,Credit Card
+TXN11292,19-12-2023, Revenue,Sales Revenue,Service charge,4328,3615,-713,Sales,ASCEND,3591,Cash
+TXN11293,19-07-2023, Expenses, Rent,Loan repayment,4212,7377,3165,HR,ASCEND,3577,Bank Transfer
+TXN11294,10-02-2024, Revenue,Taxes,Service charge,4583,6949,2366,Sales,ASCEND,2211,Credit Card
+TXN11295,20-12-2023, Expenses,Taxes,Loan repayment,2619,5485,2866,Operations,SCEPTER,3925,Credit Card
+TXN11296,30-01-2025, Expenses,Loans,Monthly payment,2616,4493,1877,Operations,ASCEND,2065,Bank Transfer
+TXN11297,07-08-2024, Expenses, Rent,Service charge,3280,9504,6224,Sales,SCEPTER,2450,Credit Card
+TXN11298,23-03-2025, Expenses,Sales Revenue,Invoice payment,1715,5306,3591,Operations,ASCEND,2787,Cash
+TXN11299,07-06-2023, Revenue,Loans,Service charge,3282,2355,-927,Operations,SCEPTER,2885,Bank Transfer
+TXN11300,29-04-2024, Revenue,Loans,Service charge,2228,7122,4894,HR,PRIME-TECH,3267,Cash
+TXN11301,31-05-2023, Revenue,Payroll,Monthly payment,2859,7178,4319,HR,ASCEND,3213,Bank Transfer
+TXN11302,24-09-2024,Assets,Marketing,Invoice payment,2104,5365,3261,Finance,GOOGLE,2025,Credit Card
+TXN11303,22-02-2024, Expenses,Taxes,Loan repayment,2309,6363,4054,Sales,GOOGLE,3126,Bank Transfer
+TXN11304,11-06-2023, Revenue,Utilities,Service charge,4975,3021,-1954,Finance,SCEPTER,3725,Credit Card
+TXN11305,04-10-2023, Expenses,Loans,Loan repayment,4410,9347,4937,Sales,ASCEND,2606,Credit Card
+TXN11306,12-10-2023,Assets,Miscellaneous,Invoice payment,2003,6569,4566,HR,ASCEND,3245,Bank Transfer
+TXN11307,01-11-2024, Expenses,Marketing,Service charge,565,9140,8575,HR,PRIME-TECH,3226,Credit Card
+TXN11308,05-01-2024, Expenses,Marketing,Invoice payment,3850,8866,5016,Sales,GOOGLE,2253,Credit Card
+TXN11309,23-10-2024, Expenses, Rent,Loan repayment,517,9419,8902,Sales,ASCEND,3213,Bank Transfer
+TXN11310,24-12-2024,Assets,Utilities,Monthly payment,624,3622,2998,Finance,ASCEND,3521,Bank Transfer
+TXN11311,24-10-2024, Expenses,Payroll,Loan repayment,2170,5267,3097,HR,GOOGLE,2394,Cash
+TXN11312,15-04-2023, Revenue,Taxes,Invoice payment,852,5510,4658,Sales,SCEPTER,3655,Bank Transfer
+TXN11313,16-01-2024,Assets,Taxes,Loan repayment,2420,2929,509,HR,PRIME-TECH,2268,Cash
+TXN11314,15-09-2023, Expenses,Sales Revenue,Monthly payment,820,6663,5843,HR,ASCEND,3678,Credit Card
+TXN11315,29-01-2024, Revenue,Miscellaneous,Monthly payment,4284,3410,-874,Finance,SCEPTER,2180,Credit Card
+TXN11316,12-08-2023,Assets, Rent,Monthly payment,3604,2062,-1542,Finance,ASCEND,3840,Bank Transfer
+TXN11317,28-10-2023, Liabilities,Loans,Service charge,1140,4203,3063,Sales,GOOGLE,2414,Credit Card
+TXN11318,22-01-2024, Revenue,Sales Revenue,Monthly payment,673,8035,7362,Sales,GOOGLE,3052,Credit Card
+TXN11319,19-11-2024, Expenses, Rent,Service charge,1151,3748,2597,HR,PRIME-TECH,3902,Bank Transfer
+TXN11320,16-03-2025, Expenses,Sales Revenue,Loan repayment,4283,3897,-386,Finance,SCEPTER,3949,Credit Card
+TXN11321,26-10-2023, Liabilities,Utilities,Invoice payment,2958,3853,895,Finance,PRIME-TECH,2015,Credit Card
+TXN11322,06-04-2023, Liabilities,Miscellaneous,Invoice payment,1437,4968,3531,Operations,PRIME-TECH,2152,Cash
+TXN11323,07-06-2023,Assets,Marketing,Monthly payment,4676,4876,200,Operations,SCEPTER,3498,Bank Transfer
+TXN11324,21-04-2024, Expenses,Marketing,Invoice payment,1636,9093,7457,Finance,ASCEND,2063,Cash
+TXN11325,01-03-2025, Liabilities,Marketing,Service charge,4924,5272,348,Finance,GOOGLE,3257,Credit Card
+TXN11326,22-07-2023,Assets,Taxes,Loan repayment,1576,8615,7039,Operations,ASCEND,2604,Cash
+TXN11327,08-01-2025,Assets,Sales Revenue,Loan repayment,4224,6894,2670,Sales,SCEPTER,3678,Credit Card
+TXN11328,16-02-2025, Liabilities,Loans,Monthly payment,1439,5202,3763,Sales,ASCEND,2875,Credit Card
+TXN11329,18-06-2024,Assets, Rent,Service charge,4188,6183,1995,Operations,ASCEND,2086,Cash
+TXN11330,22-03-2025,Assets, Rent,Invoice payment,2195,4866,2671,Operations,SCEPTER,2225,Cash
+TXN11331,27-08-2024, Revenue,Marketing,Monthly payment,4088,3751,-337,Operations,GOOGLE,2162,Cash
+TXN11332,06-01-2025,Assets,Loans,Invoice payment,1603,7684,6081,Finance,ASCEND,2558,Cash
+TXN11333,01-01-2025, Expenses,Payroll,Loan repayment,4397,9066,4669,Finance,GOOGLE,2917,Credit Card
+TXN11334,15-12-2023,Assets,Taxes,Service charge,2703,9789,7086,Sales,SCEPTER,2335,Credit Card
+TXN11335,09-03-2024,Assets,Marketing,Service charge,2916,3241,325,Finance,SCEPTER,2399,Cash
+TXN11336,07-12-2023, Liabilities,Payroll,Service charge,864,4919,4055,HR,SCEPTER,2843,Credit Card
+TXN11337,02-01-2025, Revenue,Marketing,Loan repayment,1654,6146,4492,Finance,ASCEND,2923,Bank Transfer
+TXN11338,19-11-2023, Expenses,Payroll,Service charge,3532,3784,252,HR,SCEPTER,3360,Cash
+TXN11339,29-04-2024, Liabilities,Sales Revenue,Service charge,4542,4785,243,HR,ASCEND,3058,Bank Transfer
+TXN11340,13-07-2023, Revenue,Marketing,Invoice payment,4155,2909,-1246,HR,SCEPTER,3595,Bank Transfer
+TXN11341,20-08-2024, Liabilities,Utilities,Monthly payment,2847,5001,2154,Sales,GOOGLE,2986,Credit Card
+TXN11342,02-09-2024, Revenue, Rent,Monthly payment,4520,5397,877,Operations,PRIME-TECH,2786,Bank Transfer
+TXN11343,01-10-2023, Liabilities,Marketing,Service charge,4525,2203,-2322,Sales,SCEPTER,2014,Cash
+TXN11344,10-07-2023, Liabilities,Marketing,Invoice payment,404,7490,7086,Sales,SCEPTER,3274,Cash
+TXN11345,01-09-2024, Revenue,Miscellaneous,Loan repayment,4392,9967,5575,Sales,PRIME-TECH,3383,Credit Card
+TXN11346,28-03-2025,Assets,Loans,Service charge,3179,5847,2668,HR,PRIME-TECH,3740,Credit Card
+TXN11347,31-01-2024, Revenue,Sales Revenue,Monthly payment,4543,2182,-2361,Sales,PRIME-TECH,3447,Cash
+TXN11348,07-10-2023, Liabilities,Marketing,Invoice payment,3234,6389,3155,HR,ASCEND,2623,Credit Card
+TXN11349,23-01-2025, Expenses,Taxes,Monthly payment,2782,2512,-270,Sales,ASCEND,2987,Bank Transfer
+TXN11350,17-01-2025, Revenue,Loans,Loan repayment,1738,2676,938,Sales,PRIME-TECH,3370,Credit Card
