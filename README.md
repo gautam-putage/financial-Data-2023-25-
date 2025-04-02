@@ -35,7 +35,7 @@ This Power BI project provides an interactive financial analysis dashboard cover
 
 📜 Financial Data(2023-25).pbix - Contains financial insights and **Power BI visualizations.**
 
-📊 Financial Data(2023-25).pbix file **(to be added ).**
+📊 Financial Data(2023-25).pbix file **(Added ).**
 
 ---
 
